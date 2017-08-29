@@ -1,0 +1,1864 @@
+MORIENT Material Compilation v0.1
+
+	I've compiled all the articles that I managed to save into one big 
+document. I sorted through them and separated them based loosely on their 
+content. Some articles may be duplicated, as I haven't had time to make sure 
+there is no duplication. I was going to do a bit more "cleaning" but, due
+to the time constraints I haven't had time to do so. Please remember this is 
+just a rough compilation to help us choose a direction to take with the 
+MOrient project. I would also like all authors who find their work in this 
+compilation to let me know, as I would like to give you credit for your 
+contributions in any further revisions. I regret that I didn't save everyone's
+signatures when I was saving the articles. There is a short "questionnaire" to
+fill out below, as well as the whole of the compiled material. Please only
+send me back the filled out form and your comments and anything you feel I 
+have left out.  
+
+MORIENT PROJECT - Feedback Questions
+	Well we had an amazing response, and a lot of support for, the MOrient
+project. The problem now is deciding what information to use and what not to
+use. Since we are all involved in this project we'll be deciding the direction
+of the project democratically. I've gone through all the posts to the Mystara
+ML that I managed to save on my PC and I've organized them into separate text 
+files based on their over all content. I read through all the material and
+found the biggest sticking points and conflicts. We have to resolve these 
+issues before we can go on to the next step ( I'm not sure what that is right 
+now but we can figure it out ), so that's what this first compilation is about.
+Read through all the material, decide what you like and what you don't like, 
+and the fill out the simple questionnaire below and send it back to me. In two
+weeks I'll get the results from the returned forms and we'll go on from there.
+Those that don't return to me their answers in two weeks will be removed from
+the development team, I'm not trying to be unfair, but it takes a lot of my 
+time to manage all the bookkeeping and I'd rather not be doing it for people 
+unwilling to participate. Hey, besides, if you can't fill out a questionnaire 
+within two weeks it doesn't really show the kind of dedication that's required
+for something like this. If you have any problems with this then please E-mail 
+me and we'll discuss it.
+	This is simply a small questionnaire to gain a consensus on the 
+direction we are to take with the MOrient Project. Many good ideas have been 
+put forward on many different and varied aspects of the MOrient, but now we 
+must choose between the conflicting ones and then delegate the work to expand 
+on the ones chosen. All you have to do is fill out the boxes ( put an X in 
+them ) of the choices that you prefer, and then send the filled out form back 
+to me, I'll tabulate the results and we'll take the direction of the
+project from that, if you find a problem with this system PLEASE e-mail me 
+with your concerns. I'm only presenting very brief descriptions of the choices
+as everyone reading this has also been given a copy of the compiled material 
+on the MOrient, where these ideas have been presented. Well, might as well 
+get into it so:
+
+------------------------------------------------------------------------------
+GOD.TXT
+------------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+Name:  Rohindartha
+Aka:  The Enlightened One
+Sphere:  Thought
+Alignment:  Neutral (of neutral-good in AD&D)
+Immortal Rank:  Eternal
+Immortal Level:  29
+
+Abilities:  Str- 42  Int- 45  Wis- 68  Dex- 44  Con- 47  Cha- 40
+Permanent Power:  9,500
+Saving Throws:  Spell Attacks- 7,  Physical Attacks-3,  Mental Attacks- 6,  
+Power Attacks- 5
+AC: -21,  THAC0: *6 (misses only on natural 1, add 6 to damage roll)  
+Hit Dice: 43
+Hit Points:  700,  # Attacks: 4,  Punch Damage: 4d6  Anti-magic: 80%
+Special Abilities:  Aura- affects up to 23 mortals (vampires, dragons, etc.
+ARE affected)with terror, paralysis, or charm.
+Magic- Any clerical, magical, or druidic spell any number of times per day, +
+immortal magic.
+Regeneration- 1d4 hp per day if active, 1d8 per day at rest
+Communication with any living being, all air-related non-living things
+Rapid travel, special defense against non-magical weapons and
+poison, protection from magic, infravision, creation of any items, and about 
+anything else that you can think of. 
+Powers:  Turn Undead ( as a 36th level Cleric), Mystic Special Abilities 
+(acrobatics, awareness, heal self, mind block, blankout, gentle touch as 16th 
+level mystic)
+
+Description:  Rohindartha is rather small for an immortal, though he's a 
+little over average human size.  He has black hair and brown eyes, and varies 
+his appearance subtly to match those he is dealing with.  
+
+Personality:  Rohindartha was a Prince of some distant civilization (Sind,
+shortly after its peak).  His worship has disappeared from that country, but 
+was brought to the Orient by missionaries centuries ago.  He gave up 
+everything he had to seek the *Middle Path*, not succumbing to the temptation of
+luxury, yet also avoiding the extreme tortures of self-deprivation in seeking 
+enlightenment. He was an epic hero who ventured far and wide in search of 
+enlightenment. There are many vague stories about his life, though none are 
+very specific. His patron was Alphatia, and he has remained on good terms 
+with her and Koryis, whose interests he shares.  One of his long term goals 
+was to civilize the Minaeans so that the areas where he was worshipped could 
+trade and interact freely with the Alphatians, but that goal may fade with the
+disappearance of Alphatia. He is dedicated to raising mortals up above the 
+suffering of mortal life through enlightenment. He detests all undead as 
+trapping a spirit indefinitely in the realm of suffering.  Rohindartha is 
+dedicated to bringing goodness through extreme nonviolence (except towards 
+undead), but, because laws so frequently interfere with genuine goodness and 
+he feels no tie to any law but goodness, his alignment is given as neutral. 
+Rohindartha does not believe that he is fully enlightened, and is one of the 
+few immortals actively seeking the secret of the Old Ones, although he is only 
+an Eternal.  He and Khoronus are friends and research partners. Rohindartha 
+considers every immortal of the sphere of entropy to be his personal enemy,
+with the notable exception of Hel, whose enmity is merely professional in 
+nature.  Rohindartha's nature is one of absolute goodness and pacifism.
+
+Philosophy:  Rohindartha's followers are divided into two major denominations.
+The Elders' Path is a "monotheistic" philosophy which is devoted to the quest 
+for enlightenment through following the way of the Enlightened One; it demands 
+a more active role on the part of believers, and stresses extreme tolerance
+and pacifism.  The Greater Path is the philosophy in which adherents believe 
+that they are helped along the way to enlightenment by those who have already 
+become enlightened (including several other immortals, some immortals sponsored 
+by Rohindartha, several titans, and a number of heroes of the past or simply 
+fictional ones); this is a slightly less spiritual, less austere philosophy 
+which is better suited to normal life.  Both philosophies stress pacifism,
+goodness, respect for elders, and most of all, the quest for enlightenment.  
+Many orders of Mystics follow Rohindara, along with the clerics.  His clerics 
+are made up mainly of monks, though nuns and gurus also exist.  They devote 
+their lives to doing good and seeking enlightenment.  Clerics receive 
+"Deanimate" rather than "Animate Dead".  This spell alters an undead to it's 
+state before animation, thus freeing the spirit from the undead.  This only 
+works on monsters animated by a spell.  Clerics may wear no armor, although 
+they can use a shield and their increased presence of mind gives them a -3 
+bonus on armor class, plus an additional -1 bonus every 4 levels after first.
+Rohindara's clerics radiate such an aura of peace that living creatures are 
+less likely to attack them (+1 or +2 bonus on initial reaction rolls, or such),
+unless the creature recognizes the cleric as a personal enemy.  DMs should 
+award experience for monsters that the clerics avoid fighting, as well as 
+role-laying bonuses for pacifism if they are deserved.
+
+This is my basic idea for a major religion of the Orient.  Please reply with 
+your impressions of it.  Thanks!
+
+--------------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+>I was talking about Chinese belief that important people are incarnation 
+>of minor god, etc.  In game term, that would mean immortal will directly 
+>involves in mortal realm.
+
+Not necessarily.  Immortals have 3 distinct forms, as given in Wrath of the 
+Immortals.  The Manifestation form is their awesome form in which they have 
+so many powers that they are effectively invincible against mortals.  The 
+immortal's law states simply that an immortal is forbidden to appear in 
+manifestation form on the prime plane.  They are allowed to appear in 
+incorporeal form (appearing in dreams, etc.) or in a Mortal Identity. An 
+immortal is allowed to take on human (or other mortal) form on the prime plane 
+in order to further his or her objectives.  A glance at recent Mystaran 
+history shows two obvious examples: Etienne d'Ambreville, prince of Glantri 
+and the immortal Rad, and Anya, former chief advisor and mistress of Emperor 
+Thincol I and the immortal Vanya. The incarnations of emperors could be true 
+immortals without violating the Law.  I point this out only for clarification; 
+I do not necessarily disagree with the idea of a superrace.
+
+>Also, he should probably be bald.  True
+>follower of his will be pacifist to the extreme.  They 
+>will not allow to kill anything unless it is extremely 
+>evil and have no chance of redemption.  This applies to 
+>all animals and probably intelligent plants.  As for 
+>undeads, the mindless type (zombie, skeletons, etc.) are 
+>no different then moving tables, and can be destroyed 
+>without penalties.  Buddhist don't care much about the 
+>body, believing only the soul is important.  As for the 
+>intelligent undeads, I'm not sure what their view is.  I 
+>can't really see them just run up and kill those creatures, 
+>especially those that are not totally evil.  They probably 
+>will attempt to reason with those undeads first, get them 
+>to see that holding on to life this way is wrong, and get 
+>them to give up their undead statue willingly.  So perhaps 
+>they will have the power of calm intelligent undead down 
+>and get the undeads listen to them, and if the power is 
+>successfully used, the undead need to make a saving throw, 
+>or "dissipate."  Undead that is pawn of other undead should 
+>regain its free will at during the time of conversation.
+
+You're completely right regarding the baldness, it just slipped my mind
+somehow.  As for the rest, it is pretty much exactly in the same vein as
+what I had in m
+
+>BTW, this will not be the religion of the mass for MChina.
+>It will fit nicely for one of the more advanced culture that 
+>neighboring MChina that I was thinking about.  Due to the 
+>religious beliefs, they are contented to stay in their own 
+>little kingdom and advance their various art to a very high 
+>degree.  In historic setting this nation will be located in 
+>the mountains between India and China, where the mountain
+>help out its small army in defending the nation a bit.  but 
+>since I don't have any map with me, I'm not sure where would 
+>be a good place for this nation.
+
+I agree that this should not be the primary philosophy of MChina.  The
+MTibet/Nepal/Bhutan(?) that you seem to be describing is an excellent
+idea, although it seems that it would be quite a bit of work to create a
+new MIndia when Sind is already there.  T his philosophy would probably
+also be followed in the jungle south of MChina (MBurma and MThailand)
+
+>I can't comment on the stats etc., as I'm not familiar
+>with Immortals rules. He does seem to have rather impressive powers though;
+>too impressive? Also, I'm not sure that I see the rationale for the link to 
+>undead, specifically the emphasis on "de-animating" and releasing the spirit 
+>. Wouldn't this be that spirit's karma?
+
+The Immortal Law at the beginning of this post was designed specifically
+to balance these powers.  I never went into Mortal Identities because it
+seems rather premature.  The idea presented in Wrath of the Immortals is
+that a weak immortal is far more pow erful than any mortal.  They should
+not be used simply as monsters, but more as all-powerful NPCs, according
+to the rules set forth there.  If anyone who is familiar with the rules
+for immortals could reply, I would appreciate input on whether Rohindartha
+should be about at Eternal level where I placed him, or should he be less
+powerful?  As for the undead stuff, I was unsure about it myself.  John
+seemed to back up the original description, while Shelby disagreed.  I
+would appreciate further input regard ing the issue of undead in
+MBuddhism. BTW, I forgot to include this description in the original
+description: Rohin means "on the upward path" in Sindhi, and -dartha was
+simply added to be reminiscent of Siddartha. Thanks to those who took the
+time to respond.  I appreciate it, even if I disagreed with parts of your
+posts. 
+
+------------------------------------------------------------------------------
+>>John Yu<<
+
+Sigh... I was hoping we don't have to get into religion of Chinese or
+MChinese for a while, but since someone brought it up, I going to make a
+few comments.  Chinese religion is VERY confusing.  Most people are just
+not that religious.  Even the religious type (monk, priest, etc.), are
+different from their western counterpart that they are more interested in
+seeking self "enlightenment" instead of converting others.  The "religion"
+that the general population follow is a mix of Buddhism, Taoism, Confucian
+ism, and the folk tales all rolled into one.  And the attitude toward
+religion is very different from the Westerner's point of view.  I'm not
+even sure where to start on this subject area.  Should I start thinking of
+creating a MChinese's pantheons of Imm ortals?  That might take a while. 
+Also, could the "Immortal Law" be different for MOrient than those applied
+to the Known World.  As I said before, Chinese belief that many special
+people in its history are incarnation of heavenly creature/minor god etc. 
+One way to incorporate that in the Mystara campaign is that they are
+immortals reborn into mortal form, with their immortal memory wiped.  Upon
+their death, their will take their place in the Immortal rank again.  The
+Immortal Patrick described are fairly good.  I just have a couple of
+points to make.  Instead of coming from Sind, why not MIndia? Also, he
+should probably be bald.  True follower of his will be pacifist to the
+extreme.  They will not allow to kill an ything unless it is extremely
+evil and have no chance of redemption.  This applies to all animals and
+probably intelligent plants.  As for undeads, the mindless type (zombie,
+skeletons, etc.) are no different then moving tables, and can be destroyed
+witho ut penalties.  Buddhist don't care much about the body, believing
+only the soul is important.  As for the intelligent undeads, I'm not sure
+what their view is.  I can't really see them just run up and kill those
+creatures, especially those that are not to tally evil.  They probably
+will attempt to reason with those undeads first, get them to see that
+holding on to life this way is wrong, and get them to give up their undead
+statue willingly.  So perhaps they will have the power of calm intelligent
+undead d own and get the undeads listen to them, and if the power is
+successfully used, the undead need to make a saving throw, or "dissipate."
+Undead that is pawn of other undead should regain its free will at during
+the time of conversation. BTW, this will not be the religion of the mass
+for MChina.  It will fit nicely for one of the more advanced culture that
+neighboring MChina that I was thinking about.  Due to the religious
+beliefs, they are contented to stay in their own little kingdom an d
+advance their various art to a very high degree.  In historic setting this
+nation will be located in the mountains between India and China, where the
+mountain help out its small army in defending the nation a bit.  but since
+I don't have any map with me , I'm not sure where would be a good place
+for this nation. 
+
+--------------------------------------------------------------------------
+>>John Yu<<
+
+·	> So one way of getting around this that I  thought of is using
+·	> the seelie court.  For some reason the  fairies in MChina is more
+·	interested in
+·	> the welfare of the mortals than their western counterparts
+·	Hi John,
+·	I knew there were "spirits" in Chinese folklore, but are you choosing to
+·	adopt the terminology of Celtic fairy? Aren't there labels more suited 
+·	to the orient?
+
+I'm thinking of keeping them separate.  The seelie/celestial court is
+filled by the powerful fairies, nearly immortal in power.  While the
+spirits have considerably less power.  Actually come to think of it, this
+might work out quite similar to Chinese my thology.  A little background
+info first, the spirits are come to being when those nature animals or
+plants start on the "path." How they able to start was never clearly
+described, AFAIK, probably they just happen to live in a highly magical
+area for a lo ng time.  After 50 to 100 years or so, they can take on
+human form.  If they stay on the right path, they can sooner or later
+(generally several hundreds or thousands of years) became a god.  If they
+stray on to the wrong path, they will be condemned by t he heaven and be
+destroyed.  In game term, this could be that minor spirits, after gaining
+certain amount of power could be invited into the celestial court. 
+Powerful magic user could also became a god.  this could be using a spell
+similar to Lich, but i nstead of turned into an undead, the caster is
+turned into a powerful fairy and join the court.  BTW, in Chinese folk
+belief, gods is not all powerful.  They are below buddas in power.  And
+while godhood can sometime be obtained by just eating some alchem y
+formulas, one can became a budda only through total devotion, selfless
+sacrifice, etc.  Also, IIRC, a god is not out of the "great cycle,"
+meaning that after a certain amount of time they have to start at the
+beginning and be a mortal again.  And once b ecame a god, one can never
+became a budda.  So, I think in game term, Immortals = budda and Powerful
+fairy = god.  Just my opinion.  As I said before, the main reason I like
+this is there are just too many gods in Chinese folk stories to create an
+immorta l out of each one.  Hum, looking back at my post, it might be a
+little confusing.  Feel free to ask me any questions to clarify anything
+or tell me what you think of this.
+
+----------------------------------------------------------------------------
+>>John Yu<<
+
+Shelby Michlin pontificated:
+>
+·This is pretty fascinating stuff for a Westerner, or at least for this one.
+·What do you think of the Oriental pantheons in Deities and Demigods/Legends
+·and Lore etc.? Where does that (polytheism) fit into the milieu of Buddhism,
+·Confucianism, Taoism and folk tales? 
+
+I only flip through L&L once, and don't remember much about it. 
+Polytheism is what the commoners "believes".  Most people don't know
+whether a "god" came from Buddhism, Taoism, or somewhere else, nor do they
+really care. 
+
+·	What's the "Immortal Law" you refer to above?
+
+I was talking about Chinese belief that important people are incarnation
+of minor god, etc. The major gods could just be the same immortals that
+have already been published, just took a different name when in MChina,
+with a few addition immortal that is M China specific. 
+
+·In an earlier post you mentioned that the older, original Great Wall is in
+·fact a mound, while the stone wall people picture was only built within the
+·past few hundred years. Are you saying that the original Great Wall was
+·built as a mound, or that all that remains of it is a mound?
+
+Sorry, I don't really know.
+
+·Thank you again, I think your contributions are a terrific opportunity to
+·get Oriental cultures "right."
+
+Just doing what I can.  BTW, I left Taiwan before I even finished
+elementary school, so by no mean I'm an authority on China.  So if someone
+found different info on what I described, feel free to correct me. 
+
+·PS How do we refer to you politely, as Shin, as Yu, or something else?
+
+Just call me John :) While we at it, we can go a little into Chinese
+names.  In China, family names is generally placed first and generally are
+only one word (each word is one syllable in Chinese), although there are
+some two word last names too, and the y seems to be more common in the
+past.  Longer last name can also be heard once a while, but generally mean
+the family come from outer region of China, such as Mongol, Manchuria,
+etc., and they sometime shorten their family name once they integrated
+into Chinese society.  Given name are generally one or two word. 
+Traditionally, there are many families that have strict restrictions on
+Given Names.  For example, the first word of all children from the same
+generation needs to be the same word, and the seco nd words need to have
+some shared characteristic.  Like they all have to be related to water
+etc.  and those rules is kept in the family shrine that is located at the
+family's place of ancestry.  Using my name as example, in Chinese it is Yu
+Shin Chyang.  Yu is my family name, both of my sisters have Shin as the
+first of the given name.  Our family book is back in China, so we didn't
+follow the strict family rule on naming.  All cousin with same last name
+(i.e., children of you father's brother) also cons ider to be in the same
+generation and should have same first word for the given name.  BTW, these
+rules are generally followed by more educated families, or middle class or
+better.  When your first worry is earn enough money to survive, you tend
+to not wo rry about names as much.  Traditionally, boys from educated
+family often have a personal names too, which is used among close friend. 
+Commoners name is generally much simpler.  A street vendor generally have
+names like Wong Six (for been the sixth childr en of the family) or Tang
+Big (for been the first born, or just a big guy), etc.  Adventurers
+generally like to carry some nice sounding nicknames that Timely Rain for
+someone like to help out other, White Serpent in the Wave for someone who
+is a good swi mmer and have fair skin, etc.  Sorry for talk so much on
+fluffs, I'll try to cut down a bit in the future. 
+
+--------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+One common motif in Chinese mythology is the Celestial Court, which is
+similar to the Mt. Olympus of the Greek myth that it is a gathering of the
+Chinese gods.  However, since the number of Chinese gods could easily be
+in the hundreds if not thousands, it would be difficult in my opinion to
+create that many immortals.  So one way of getting around this that I
+thought of is using the seelie court.  For some reason the fairies in
+MChina is more interested in the welfare of the mortals than their western
+cou nterparts.  So they have been "helping out" quite a bit over the
+history of MChina.  So the commoner mistaken some of the more powerful
+good folks to be immortals and start to warship them.  The clerics in
+MChina know that is not the case, but the idea is too deep rooted for them
+to bother to change it.  The famous people that are believed to
+incarnation of gods could just be changelings or actual fairy spirit
+incarnated into human baby for one life time, probably either as a
+punishment or the seelie cour t like to get something done that a normal
+human can't be trusted.  So, this is the gist of my idea, what do people
+think about it?
+
+------------------------------------------------------------------------------
+BARB.TXT
+------------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+>Dear Pascal: Send more gnoll stuff, have you seen I've left all the 
+gnollish barbarians to you?
+	Thank you for your long and useful post. I hope it will be a good 
+start to every of us.
+	About gnoll stuff, I'm just finishing my Averoigne one and then I 
+switch to it. I will speak of the gnolls, their more trusted companions 
+(hyenas), their two immortals (Yeenoghu and the Ghoulish Hyaena from 
+Chaos), some of their habits and so on. Hope you'll find it interested.
+	When the new oriental setting will take form, and I want to 
+participate, I'll try to make relations to my gnoll stuff to it.
+	Long live the Gnolls, may your scent never fails you.
+	Pascal (who likes dwarves too)
+
+------------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+Now, here are some general ideas, if you have something to add or you
+don't like something, let me know soon, before I start writing: Human
+barbarians are Mongol-like, great horsemen and really good with bow and
+arrows (I'll get some ideas from the GAZ about Ethengar). For half-ogre
+and others humanoid barbarians, I'm going to get many ideas from a tribe
+who really threatened China (I don't know their English name, in Italian
+is 'Unni', they are the ones who later came in Europe), and from others
+Germanic tribes describ es by Tacitus (OK, that's not historically
+accurate, but I feel it's better like that...). Gabriele Ferri -
+fif3336@iperbole.bologna.it PS Should barbarians have magic users? 
+
+---------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+Hello again,
+
+Perhaps 'Unni' is 'Hun?'
+As far as barbarians, I would recommend shamans and witch-doctors, rather
+than full magic-users.
+Shelby Michlin
+----------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+There are really hundreds of horse-barbarian cultures that have come out 
+of central Asia ... we should all look for details (either historically 
+inspired or totally original) to give to these cultures to make them 
+unique and not just Ethengar East.
+-------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+Hi, I'm still working on barbarians for MChina.  Here are more infos about
+humanoid barbarians (see also my earlier messages): There are many
+different tribal groups; Most common humanoids are goblins, trolls,
+kobolds and hobgoblins. Those tribes are slaves of other more developed
+humanoid-civilizations (Ogre-magi, half-orc, half-ogre, rakasta) who could
+be really dangerous for MChina, if they were united by a strong l eader.
+By now they haven't a common leader, so they use only 50% of they military
+power for attack MChina, but maybe in future....; I imagine this
+barbarians like those who threatened (and eventually destroyed) the Roman
+Empire. They are nomads, they travel in caravans and they've never founded
+a settlement bigger than a village. Even their villages are frequently
+abandoned because th ey aren't good in agriculture (they think that
+agriculture is inferior and let only captured humans practice it) and, so,
+they don't get enough food from the land. In fact they prefer hunting
+animals or attacking isolated villages to get food, hardware an d even
+slaves. Many tribes have some sheep, yaks and horses.; Each tribe is
+composed by 15/50 members (males and females), plus about 3 slaves for
+every important member (there are 3/10 important members in every tribe).
+Social and political influence is often hereditary or is also gained with
+experience and age.; About 5 tribes together form a horde. Those 5 tribes
+are formed by slaves-humanoids (goblins, trolls, kobolds or hobgoblins).
+Please note that there often is a slave-humanoid race who is dominant
+between the other slave-races in the horde. Humanoids who b elong to other
+races than the dominant one are often killed during skirmishes caused by
+racial hate. Every horde is ruled by a another group of humanoids who is
+superior for intellect, strength or magic (ogre-magi, half-orc, half-ogre
+or rakasta). The rul ing humanoids may not belong all at the same race.
+The ruling group's uncooperative and evil tendencies don't let the hordes
+cooperate unless their survival itself is in danger. The rulers think of
+their slaves as animals; they don't hesitate to kill them if they want to
+rebel (they remind what happened centuries ago, when a slave-rebellion and
+a MChinese offensive put in serious danger their ancestors' lives).;
+Slave-humanoids wear animal furs, and in war, they put grass and leaves on
+them to increase stealth, and draw symbols on their faces and bodies to
+incite fear. Note that some furs (especially the ones from yaks) offer the
+same protection of a leather armo ur. Sometimes they have wooden shields
+decorated with paintings of animals or geometrical patterns. Slave-races
+can make some primitive weapons like bows, staffs, maces; but they can
+also have some rusty short swords or daggers stolen in their raids (if t
+hey are lucky enough to hide them, because robbery is frequent even in the
+horde). Ruling-humanoids instead have steel weapons stolen in the raids
+(note that barbarians don't know how to make them) or, at least, some very
+well made, very beautiful, and ma ybe even enchanted by a shaman,
+primitive weapon. They often have artistic wooden shields and leather
+armours (sometimes they put some wood or bronze on them, gaining a -1 / -2
+AC and +5/10 Kg weight). The most important and the richest leaders wear a
+bro nze, gold and silver plated, helmet. When they travel, they rides
+horses, but they aren't so good like humans barbarians (I'll speak about
+them in a later message). When they stop, slaves have no tents at all or,
+if it's really cold and windy, they uses a small wooden wall to stop the
+wind a nd old, ugly, rotten animal furs to cover themselves. Rulers can
+have, depending on their culture and the hardware available, a tent, a
+small wooden cottage, or a room dug underground. Animals are usually left
+free, but they are closely guarded because ro bbery is feared. They have
+great knowledge of their territory and, if they know that they are going
+in a place with no trees at all, they bring fire-wood with them.; In war,
+they uses an hit-and-run-away tactic if the raiding party is small, but
+sometimes, when they are really low on food or slaves, they join in a
+greater horde and try to get past the defenses of MChina. Sometimes they
+fail, but sometimes they succeed . When they are past the defenses, they
+split again in small groups in order to get more loot possible quickly
+(note that smaller group are very rarely composed by more than 2 different
+races). They search for gold, food or whatever they can need as quick a s
+possible, then they escape to their territories. When they reach their
+homeland, humanoids fight for get the best animals and stolen weapons and
+armours. Anyway, slaves can be assigned only to important generals,
+tribe-leaders or shamans.; Many hordes have an healer. It's a
+humanoid-cleric who worship his race's own Immortal (see GAZ about Broken
+Lands and Immortal boxed set for more infos) and have to heal the rulers.
+It often forbidden to heal slaves in peace, but rulers may agree if they
+are in war and they need soldier. The healer uses healing spells, but he
+also is expert in preparing healing potions with vegetables (he can also
+prepare many poisons...). Shamans are less common that healers. They are
+magic users, but there are some difference with the human ones. They don't
+have a spellbook: when they learn a spell, they tattoo it on their own
+skin (humanoids cannot read and write, but shamans uses some k ind of
+ideograms). Shamans can't learn many spells: they have a -4 penalty on the
+maximum number of spells they can learn and also on the maximum
+spell-level (therefore, there could be some exceptions for really very old
+shamans, or for some humanoid hero es). When a shaman casts a spell, he
+must shake his mystic sceptre (an artistic staff with a skull on it's top
+and some precious gems in the skull), shout his magic words very loudly
+and, if the spell is very powerful, dance. More power a shaman gets, mor e
+valuable must be his sceptre (more gems, staff made of the finest wood, a
+skull of an important MChinese....). Gabriele Ferri -
+fif3336@iperbole.bologna.it
+---------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+Just a question about humanoid's in MOrient.  Should we give them
+something special to add in a bit of oriental favor to them.  I'm 
+not really sure what though.  Perhaps just change their name a bit?
+or something more.  One barbaric humanoid I like to add is something
+about 7 feet tall, long hairy red fur grow all over their body, 
+weird colored eyes, pointy nose, pointy teeth, eat raw meat, 
+chew each others face as greeting custom, total savage and barbaric
+in manner, walk around semi-naked, including the females.  That is
+about all I can think of for now.  The description was Chinese's 
+general conception of what westerner like a couple of hundreds of 
+years ago :)  
+----------------------------------------------------------------
+>>Gabriele Ferri<<
+
+on the 25th of July, Shelby Michlin asked: 
+>Hey, this shaman is terrific! The tattoos, the sceptre, the shouting and 
+>dancing, this is great! Anyone have anything similar for the "clerics?" 
+
+Well, here it is... (I've got some inspiration on the GAZ about Ethengar...)
+
+When an old healer dies, his soul is believed to travel to a child's body,
+and place a mark on it.  So, when a horde loses his healer, humanoids 
+begin to search for a baby-humanoid who has the sign. T his mark could be
+different (a section of skin of a different colour, six fingers in a hand,
+one ear missing, and so on...), but every 'dynasty', or every soul (as 
+humanoids believe), has its characteristic mark. The humanoid-child is 
+educated by the wise st and oldest member of the horde, and must pass many 
+tests, varying from race to race. Note that the child have to demonstrate
+his courage, resistance to pain, cold, hot, he must prove that he is 
+totally evil. After the final test, one of the wisest memb ers give him a 
+necklace made of bone of a animal. The healer will have to protect this 
+animal race forever. The healer is now able to cast spells as a cleric, 
+but with some restrictions:  healers aren't allowed to cast higher spell 
+during combat since they need exceptional concentration and a ritual during
+spellcasting. When an healer want to use his magic, he has to follow very 
+complex rituals depending from the spell. Obviously, more a spell is 
+powerful, more complex is the ritual: for example, Cure Mino r Wounds could
+be used in combat since it requires a minor ritual like 'touch your head 
+with your left hands'; but more powerful spells could require dancing, 
+meditations, trance or even sacrifices. For every ritual, there is always
+20% (or more) possibil ity of an event like a thunder, a falling star, 
+wind or even the intervention of a party of adventurers, which disturbs 
+the ritual. If the ritual is disturbed there are [80 - healer's wisdom]% 
+possibility of miscasting. If the spell is miscast the magical power 
+accumulated around the healer isn't controlled and cause 
+[(1d4+2)*healer's level] HP damage plus some possible side-effects. To 
+determine those side-effects, the DM can roll on a Wild Magic table or 
+imagine an effect appropriate to the caster. If t he ritual is disturbed 
+but the spell isn't miscast, the spell is lost with no effect. BTW, the 
+rules about rituals could be also used by shamans...
+
+------------------------------------------------------------------------------
+DRAG.TXT
+------------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+>Slight clarification.  The blue dragon was ordered to cause trouble by
+>The chief god.  Generally the story goes like this.  People down in the
+>mortal realm got too corrupted, or did something that angers the emperor
+>of the god, he send down the blue dragon to end the dynasty, but right
+>after that, some book keeping god mentioned that the current dynasty
+>are fated to rule for many more years, so the emperor god send down
+>the White Tiger to stop the Blue Dragon.
+
+>> Lung Wang:  Sea Dragon, Ni
+
+• Translated into Dragon King.  There are 4 of them, one for 
+>each sea (east, south, north, west).  Quite important figures in
+>celestial court, especially the one of east sea.  But often got
+>beat up, then file compliant to the celestial court.
+
+>> Pan Lung:  Coiled Dragon, CN
+
+• Shouldn't be a different specie of dragon.  Dragon often 
+>depicted in painting coiled together, like a snake.  But there
+>are no Laying on top of Treasure Dragon ...
+
+>>> Shen Lung:  Spirit Dragon, CN
+
+>>	Don't know, could be god dragon?
+
+
+Maybe avatars of the Great One and her three immortal colleagues are in 
+order here.  Hmmm. there's four of them, just like there is four Dragon
+Kings of the Sea.  We could do something neat for Mystara with this.
+>>> Yu Lung:  Carp Dragon, N
+>>	Fish Dragon.  My guess is the idea come from the Chinese
+>>myth that in a certain rapid on Yang-Tzy river, carps often leap
+>>out of water while swimming up river (like the salmon in the 
+>>Pacific Northwest).  Legend say that if the carp can jump over
+>>a point called Dragon Gate, they will get transformed into a 
+>>dragon and flies away.
+>The AD&D version of this dragon is a fish-like dragon that mutates into 
+>one of the other dragon types when it reaches a certain age.  It is 
+>interesting to see how far that depiction has strayed from the legend
+>you cited.
+-----------------------------------------------------------------------------
+>>John Yu<<
+
+Omm, in Chinese's point of view, a dragon is probably about as awe
+inspiring as an angel.  I don't think a dragon will let many people riding
+it, and even if it does, most probably wouldn't dare to.  I mean, do you
+think the commoner will have as much res pect to the Emperor (an
+incarnation of a golden dragon) if dragon was mere mounts?  Dragon, could
+be a guardian of some places, especially remote wilderness paradise or
+some place of high magic.  Well, let me describe oriental dragon a bit
+here.  I guess most people know what they look like: long bodied, no wing,
+4 legs.  Dragons, for most part, are creature of water.  They live in the
+seas or deep lakes.  I don't think all the dragon can fly either.  But all
+of the more powerful one should, as they need to fly to the heaven,
+generally for the banquet :) Most dragons are also very intelligent and
+able to take human form.  Dragons also have to job of controlling the
+rainfall.  However, dragons doesn't seems to be very powerful physically. 
+In the folk tal es they often got beat up, even the dragon kings.  Some
+dragon are also very lecherous.  They can mate with almost anything, and
+the offspring sometime became more powerful version of the other parent,
+sometime became powerful monster. BTW, let me reiterate again that I point
+out things like this just to let people know what is true to mythical
+China and what is not.  It does not mean I reject a certain idea.  If most
+people felt a cavalry of dragons is cool, lets go with that.  However, I
+think dragons should be rarer to maintain its mystic. 
+
+----------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+In dealing with dragons in MChina, we have two forces to contend with:  on
+the one hand, we want to depict dragons as Chinese legend depicts them,
+but on the other hand, we want to preserve the unique Mystaran treatment
+of dragons.  What does that mean?  Here is what I would suggest: 1) Except
+for gold dragons, no metallic dragons exist on Mystara.  That is no
+problem—I would see gold dragons as the best accepted dragon rulers for
+MChina. 2) Most Mystaran dragons are of the chromatic variety.  I would
+regard these dragons as rare visitors to MChina who only occasionally
+succeed in becoming emperor.  The blue dragon (which does exist in
+Mystara) was mentioned as the archetypal "evil" dragon .  Fine—let's have
+at least one such blue dragon as a tyrant in MChina's past. 3) Gemstone
+dragons are, according to the Dragonlord trilogy, intruders from an
+alternate plane of existence.  Unless they have a significant role in
+Chinese mythology, I would exclude them from MChina. 4) Finally, the AD&D
+game does have a number of oriental dragons, whose place in MChina we
+should consider: 
+
+Chiang Lung:  River Dragon, LN-LG
+Li Lung:  Earth Dragon, N
+Lung Wang:  Sea Dragon, N
+Pan Lung:  Coiled Dragon, CN
+Shen Lung:  Spirit Dragon, CN
+T'ien Lung:  Celestial Dragon, LN
+Tun Mi Lung:  Typhoon Dragon, NE
+Yu Lung:  Carp Dragon, N
+
+If any of these translations are incorrect, then TSR fouled them up—I took
+them all straight from the Monstrous Compendium/
+------------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+Hello again, Still working on Averoigne and gnoll I've found time to
+search the net about Chinese stuff. I found two sites which could be of
+interest : www.waltontech.com/ch/culture/index.htm There you'll find many
+informations about Chinese fairy tales, astrology, religion, philosophy
+and so on... zow00.desy.de:8000/~hungbhy/rpg.html This a page about a rpg
+set in a Chinese setting. Of course we are working on original stuff but
+maybe some ideas could be borrowed, and reading such pages could give us a
+Chinese mood. About dragons I prefer to think that the whole country is
+the Dragon (does this theory belong to Chinese alchemy)...The wall is its
+spine, the chasm its bowels, when it rains the Dragon cries or sweats,
+when there is thunder the Dragon roars or fights. Far below the temple
+city of the Emperor there's a cave where the Emperor drinks the blood of
+the Dragon to have immortality and full knowledge of its land and its
+inhabitant. But the more blood the Emperor drinks the more its soul
+dissolves in the land a nd in the spirit of the Dragon. Some Emperors are
+so close to the Dragon, and so so far from the 'reality' that they have to
+be removed. The spirit of the Dragon inhabits every inhabitants of MChina
+so when there's a revolution it's an idea of the Dragon, so say the
+priests close to the people. The Dragon has enemies from the inside and
+from the outside. Inside enemies, sometimes called worms or diseases, want
+to take control of the Dragon or they want to corrupt it (by drugs,
+alcohol). They are like hunters who want a part of an animal (its fur ,
+its meat, its feathers) ignoring their greed will kill the animal, they
+don't see the Dragon as a whole thing. Outside enemies are the beasts who
+roams around the Dragon to kill it, you got the Hyena (the gnoll nation),
+the Raven (some barbarians, maybe Jennites) and so on. In fact every
+nation got an animal name, and of course there's a legend about each
+animal o r monsters. I thought of this as I wrote it, I hope my English
+will improve. About bookkeeping, maybe is it time to make a list of all
+the ideas we had. That would be better than checking all the post. As I
+remember there's some central questions : · Where is MChina ? · What are
+its neighbors ? · What is MChina ? 
+
+Maybe it would be better to have an agreement about the organization of
+our work before Joe Duncan suffocates under the great number of posts ;)
+Would it be possible to take the presentation of a GAZ and then dispatch
+the work in groups. A group working on flora and fauna, another one on
+religion, one on magic, one on government and so on. Of course it's
+impossible to design a nation in this manne r if every workgroups doesn't
+exchange its works every week. That's just an idea, any comments ? Pascal
+------------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+<< That's a really nice idea of having dynasties of dragons. I also
+figured that he would assume human form to interact with his subjects not
+to deceive them, but for convenience. However, I do see another
+possibility that should be considered.  If the dragon-emperor rules in
+human form, he would be expected to gat her a harem of human wives.  The
+result could be a large number of half-dragon noble offspring.  So the
+elite warriors of MChina would not be dragon riders but half-dragons.
+
+------------------------------------------------------------------------------
+>>John Yu<<
+
+Perhaps dragon blood is needed for being a nobility.
+-----------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+In a message dated 96-07-26 03:11:58 EDT, dleland@cogsci.ucsd.edu (David
+'Azure' Leland) writes: << I recently got the Council of Wyrms boxed set,
+and there are rules for half-dragon PCs (or NPCs, for that matter) within.
+>> There is one critical difference between the half-dragons of MChina and
+those of _Council of Wyrms_:  The MChina half-dragons would be half-human
+and thus have no racial abilities to give up for dragon abilities.  But
+Dragon #206 proposes a way of handlin g such characters:  they simply gain
+one dragon ability per even level until they reach maximum level. One
+interesting possibility that we might want to introduce into an MChina
+campaign is that a half-dragon who reaches maximum level could go on some
+sort of quest to become a full dragon.  If he is successful, he will
+become his father's heir.  At that po int, of course, he would be retired
+from play and become an NPC (if he isn't one already). 
+------------------------------------------------------------------------------
+>>Simon<<
+
+I've always liked the idea that whenever a dragon moves, the world shakes. 
+By that I mean to say dragons are only personally involved in the biggest
+events of the continent. This has not been the case with how AD&D dragons
+are portrayed, but I think this sort of atmosphere would be particularly
+appropriate for an oriental setting. This, however, also implies : a)
+dragons are old b) there aren't that many of them; there are certainly no
+"young" dragons for would-be adventurers to go out and slay as the baddie
+of the week. c) they're whopping powerful
+
+As an aside, I have an oriental setting I created for an RPG I'm working
+on.  It's quite lengthy, and only part done (but enough to play off), so I
+wasn't sure whether to post it or not, for ideas and feedback since the
+list is presently concerned with ma king an oriental setting. If anyone is
+interested in seeing this, and critiquing this, e-mail me privately at
+"seah@sfu.ca" Simon
+:)
+
+------------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+In fact, I would recommend that any Western adventurer in MChina who
+mentions slaying dragons would henceforth be treated by the locals as the
+barbarian that they always suspected him of being.  To get an idea of how
+much such an adventurer would be loath ed, picture an Eastern adventurer
+who shows up in MEurope and casually talks about killing kings and
+bishops.
+------------------------------------------------------------------------------
+>>John Yu<<
+
+·About dragons I prefer to think that the whole country is the Dragon (does 
+·this theory belong to Chinese alchemy)...The wall is its spine, the chasm 
+·its bowels, when it rains the Dragon cries or sweats, when there is thunder 
+·the Dragon roars or fights.
+
+Based on Chinese's creation myth, a giant pop out an egg when the universe
+was in primal chaos.  He pushed sky and earth apart, then after he died,
+his blood became rivers/ocean, hair became forest, eyes became sun and
+moon, etc.  But we could substitute him with a dragon. 
+
+------------------------------------------------------------------------------
+>>Jenni Merrifield<<
+
+Mystarans: I'm was thinking of looking into Oriental Mythology and Folk
+Lore for the purpose of developing some MOrient Specific Monsters.  The
+Orient is full of interesting and unusual creatures that we could really
+make use of.  There are probably some which will actually be modified
+variants on existing standard monsters too. And, we definitely need to
+develop an MOrient "Dragon".  I would suspect that standard "Dragons"
+could also live near the MOrient, but they would be much rarer than the
+"Emperor Dragons", and would not be accorded the same level of respect
+that the "Emper or Dragons" were given, since they are not really of the
+same ilk. Actually, I just remembered, I have a book a borrowed from my
+Mother called "Dragons, A Natural History" that includes some information
+on Oriental Dragons (Both the Chinese and Japanese types).  It might be of
+some interest to share some of the informati on from it with the list for
+further perusal.  I'll try to post it in the next couple of days (after I
+manage to find the book...) That's all! -=< strawberryJAMM >=-
+-----------------------------------------------------------------------------
+>>Jenni Merrifield<<
+
+Mystarans: At the bottom of this post is a (somewhat lengthy) discussion
+of Oriental Dragons as taken from the book "Dragons, A Natural History",
+by Dr. Karl Shuker.  While the dragons of the MOrient will most likely be
+significantly different, I thought this inform ation might be a good hook
+up for our imaginations.  In particular, the maturing process is
+interesting, though I suspect it would need a lot of modification.  I also
+think the point about the "five toed" version of the azure "spiritual
+dragon" being the insignia of the emperor could prove useful—perhaps the
+ranks of "nobility" of the dragons (and half-dragons) in MChina depend on
+the number of claws they have.  (in other words, the number of claws would
+prove an individual's lineage). Comments?  Ideas?  Brain Storms?  Please
+post! -=< strawberryJAMM >=-
+===========================================================================
+Oriental Dragon exhibit many fundamental differences from their Western
+counterparts, in particular, their ability to fly even when wingless;
+their generally benevolent nature and relationship with people; and the
+reverence for these ethereal dragons held by the people of these
+countries.  "Indeed, many of the East's most ancient and august human
+lineage's actually claim descent from them." According to Wang Fu (active
+during the Han dynasty, 206BC - AD220), the Chinese dragon is actually
+composed of a very complex combination of features, drawn from nine very
+distinct entities:  head of a camel, eyes of a demon, ears of a cow, horns
+are the branched antlers of a stag, neck of a snake, belly of a clam, the
+soles of its feet are a tiger's, claws are an eagle's and the 117 scales
+sheathing its long body are those of a carp.  Of these scales, 81 are
+infused with "yang" (benevolent essence) and 36 with "yin" (malign
+essence) for although Oriental dragons are primarily benign, their
+influence can sometimes be malevolent too.  "Even its voice is ambivalent: 
+likened to the jingling of copper pans, it is neither mellifluous nor
+cacophonous." The male dragon's potent power is said to derive from a
+large, luminous pearl which is concealed under its chin or throat by folds
+of skin.  Part of this power included an adept ability at shape changing,
+good enough to successfully emulate the human form . The Chinese dragon is
+said to mature and metamorphosis over a period of 3000 years.  First it is
+hatched from a gemlike egg laid 1000 years earlier, it starts life as a
+water snake which takes 500 years to develop the head of a carp.  It is
+now known as a "kiao".  Over the next 1000 years it continues its fishlike
+development and acquires the scales of a carp, and develops four short
+limbs with four sharp claws each, an elongated tail, and a bearded face. 
+It is now called a "kiao-lung" or simply a "lung" which translates as
+"deaf" because although it has ears, they do not work.  During the next
+500 years, the "lung" grows a pair of horns—through which it can hear. 
+Now it is known as a "kioh-lung" which is the most familiar form of the
+Chinese dragon, ho wever it has still not completed its metamorphosis. 
+After yet another 1000 years, it will gain the rarest characteristics of
+the Oriental Dragon:  a series of branching wings.  "Fully mature at last,
+the winged dragon is termed a "ying-lung" and is truly a wonder to
+behold." There are several types of Chinese dragons, but the four most
+important ones are: 
+
+1) "t'ien lung"     -- the celestial dragon, protector of
+		       the heavens and
+                       guarding of the gods' heavenly abodes.
+2) "shen-lung"      -- the spiritual dragon, the azure-scaled master of storms
+                       and skyborne bringer of rain.
+3) "ti-lung"        -- the dragon of land, stream and river, which spends 
+                       springtime in heaven and autumn in the sea.
+4) "fu-ts'ang lung" -- the treasure dragon, keeper of secret hoards of
+		       priceless jewels and precious metals within the deepest, 
+		       darkest vaults of the earth.
+
+A special "breed" of the "shen-lung" which had five toes was known as the
+"imperial dragon" and only the emperor of China was permitted to use this
+image for decorative purposes.  "The penalty imposed upon anyone
+appropriating this insignia was death." Other notable Chinese dragons
+include the yellow dragon or dragon horse, a divine messenger that arose
+from the River Lo, revealing the eight trigrams of the system of
+divination known as the I-Ching; the human-bodied fire dragon "lung-wang"
+(i.e., he has the head of a dragon on the body of a human) the immortal
+dragon king, inhabiting an opulent palace on the ocean floor; and the
+thunder dragon, with obsidian scales, which often transforms itself into a
+small boy whose skin is bright ultra-marine and who rides upon a scarlet
+carp. 
+
+But, the oddest Chinese dragon would be the "t'ao t'ieh", which has only
+one head and a single pair of forelegs, but two bodies, each with its own
+pair of hind legs and tail.  "Exiled to the outer darkness of space in the
+second millennium BC by the emperor Shin, this six-legged monster
+personifies gluttony, which is the literal translation of its name, and it
+is often depicted on dishes as a deterrent to greed." The Chinese dragon
+and the Japanese dragon are superficially similar, although the Japanese
+ones tend to be more serpentine in shape and are less prominently aerial. 
+The most familiar Japanese dragon is th "tatsu" which descended from a
+primitive variety of Chinese dragon.  Unlike its ancestor, it is
+traditionally associated more intimately with the sea than with rain · for
+Japan is less vulnerable than China to drought-related devastation,
+reducing the necessity to pray to rain-releasing dragon deities.
+
+===========================================================================
+-----------------------------------------------------------------------------
+>>John Yu<<
+
+Thanks about the post, now I know where did TSR and SJG got some of their
+ideas from.  However, some of the info below doesn't quite seems right to
+me.  It probably are not wrong, just not the popular description of
+dragons.  For example, someone writing about Arthurian legend might
+describe Lancelot as average looking perhaps even slightly malformed. 
+While that is correct based on some of the older works, it is not the way
+he is commonly described as today.  Of course, as our creation are just
+based on China's folk tale, it doesn't really matter which folk tale we
+draw our idea from.  But I just like to point out the following passage by
+no mean is the only description of dragons. 
+
+·"five toed" version of the azure "spiritual dragon" being the insignia of the 
+·emperor could prove useful—perhaps the ranks of "nobility" of the dragons > (and half-dragons) in MChina depend on the number of claws they have.  > (in other words, the number of claws would prove an individual's lineage).
+
+This is almost certain to be a mistake.  Emperor's insignia is a 5-toed
+gold dragon.  Major officials can wear robes with 4-toed dragon (I'm not
+certain about the color of those dragons).  Next tier wear 3-toed dragon
+robe. 
+
+·face.  It is now called a "kiao-lung" or simply a "lung" which translates as 
+·"deaf" because although it has ears, they do not work.  During the next 500 
+
+Where the name "lung" (Chinese for dragon, pronounced more like "lone" as
+in alone in Mandarin) come from is in constant debate. 
+
+·1) "t'ien lung"     -- the celestial dragon, protector of the heavens and
+.	guarding of the gods' heavenly abodes.
+·2) "shen-lung"      -- the spiritual dragon, the azure-scaled master of storms
+·       and skyborne bringer of rain.
+·3) "ti-lung"        -- the dragon of land, stream and river, which spends 
+·	springtime in heaven and autumn in the sea.
+·4) "fu-ts'ang lung"—the treasure dragon, keeper of secret hoards of
+·	priceless jewels and precious metals within the 
+·	deepest, darkest vaults of the earth.
+
+I don't think this is a popular way of dividing dragons.
+·	"The penalty imposed upon anyone appropriating this insignia was death."
+
+Actually, it probably going to be much worse ...
+-----------------------------------------------------------------------------------
+>>John Yu<<
+
+I'm also thinking about several different ways that we can treat the
+Dragon emperor.  One is that the emperor is a true dragon is known to
+every one and no one will question his authority.  This will make the
+campaign in MChina more static. Another is that the emperor SHOULD be a
+dragon, but no one knows for sure.  This will add more court intrigue into
+the campaign as all of the contenders for the position of emperor like to
+think they are the true dragon and try to convince others of that too. 
+The Dragon Throne is probably a powerful artifact that kill any normal
+human sits on there.  One needs to have special blood or spirit inside to
+safely sit on it, but he not necessarily have to be a dragon, as other
+animal incarnation could also sit on it.  So by just sitting on the Throne
+can't be used as a test.  Just a few ideas that popped into my head.  Feel
+free to make any comments.
+
+-----------------------------------------------------------------------------
+MCHINA.TXT
+-----------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+That "Empire of the Great Khan" on the old Master's map seems like a natural
+place to start.  I would picture it as the most advanced nation on the
+continent, but one that has had little contact with the rest of the world
+for several
+centuries. Since it covers a huge area, you could easily use the Chinese
+empire of the
+Ming dynasty period as a model for it (from reading a brief summary of
+Chinese history, this period seems the most appropriate—China begins that
+era as a seafaring power that withdraws into itself and ends that era with
+ever increasing influence by European explorers).  The biggest difference
+that I 
+would see is that this empire is almost completely landlocked—if it had a
+substantial coast, the Alphatians would not be so completely ignorant of it.
+----------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+Something I forgot to mentioned in an earlier post about magical
+resources in MChina.  MChina probably don't have that many magic
+users as that is probably not as a honorable a profession as 
+being a fighter.  Commoners might be scared of known magic-user.
+But there always seems to be a bunch of powerful magical items
+laying around for hero of the story :)
+------------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+After reviewing the scanty "official" material about Skothar, I have come
+to realize that this continent just begs for further development. 
+Referring to Dragon #153, where the "Princess Ark" series begins, I see
+many place names from the old Master's set given, along with commentary by
+Prince Haldemar stating that all of it is wrong.  However, he seems to
+overstate his case—at least one of the nations whose existence he
+rejected, Tangor, actually exists on Mystara.  I would suggest that he was
+equally mistaken about the "Empire of the Great Khan" in central Skothar,
+which the Alphatians never explored because they never got past the
+Jennites and Minaeans of the coastal regions.  This would be the perfect
+location for a culture based on that of China.  This "Great Empire" was
+originally settled by Jennite nomads and was prey to attacks from them
+until they were weakened by a civil war that destroyed many of the nomads
+and caused many others to be transported to the Ho llow World.  If you
+want a "Great Wall" to exist, it is certainly conceivable that they would
+have built one between the Empire and the Steppes of Jen. Anyway, once the
+Jennites were out of the picture, the "Great Empire" began its rise to
+greatness.  Eventually they became so powerful that their enemies—the
+Jennite nomads to the northwest, the Minaean pirates to the southwest, and
+the Nentsun humanoids of the surrounding mountains—were forced to respect
+their borders.  They built a single seaport next to the Sea of Zamara and
+sent out trading expeditions all over the world but avoided "barbaric,
+uncivilized" areas such as Alphatia, Bellisaria, the Isle of Dawn, and the
+continent of Brun (in short, all of the "Known World"). For various
+reasons, they regarded the Alphatians and later Thyatians as barbarians of
+the worst sort, and the sack of their seaport by the Alphatians ca. 700 AC
+only confirmed this attitude—as well as initiating a period of
+isolationism from which the Gr eat Empire has not yet emerged.  (For their
+part, the Alphatians thought that the seaport they sacked was a Minaean
+pirate base.)
+-------------------------------------------------------------------------
+>>John Yu<<
+
+·	I would suggest that he was equally mistaken about the "Empire of the 
+·	Great Khan" in central Skothar, which the Alphatians never explored 
+·	because they never got past the Jennites and Minaeans of the coastal 
+·	regions.  This would be the perfect location for a culture based on that
+·	of China.  This "Great Empire" was originally settled by Jennite nomads
+·	and was prey to attacks from them until they were weakened by a civil
+·	war that destroyed many of the nomads and caused many others to be
+·	transported to the Hollow World.  If you want a "Great Wall" to exist, 
+·	it is certainly conceivable that they would have built one between the
+·       Empire and the Steppes of Jen.
+
+The name Khan is a Mongolian term, not Chinese.  BTW, I point these things
+out just to let people know, does not mean I'm against the idea.  This
+could be a mistranslation by the Known World explorer, for example. 
+
+·Anyway, once the Jennites were out of the picture, the "Great Empire" 
+·began its rise to greatness.  Eventually they became so powerful that 
+·their enemies—the Jennite nomads to the northwest, the Minaean pirates 
+·to the southwest, and the Nentsun humanoids of the surrounding mountains 
+
+>-- were forced to respect their borders.  They built a single seaport next
+to 
+> the Sea of Zamara and sent out trading expeditions all over the world but 
+> avoided "barbaric, unc ivilized" areas such as Alphatia, Bellisaria, the
+Isle 
+> of Dawn, and the continent of Brun (in short, all of the "Known World"). 
+
+One possible explanation that MChina never made contact with the Known
+World.  China never developed a strong navy, and through out its history,
+there was only one famous navigator/explorer.  This is probably due to
+Chinese belief that the dead's body has to be buried in its homeland or
+the sprite will not able to rest.  Therefore Chinese never like to go out
+to the sea where an accident could cause the body to be lost in the bottom
+of the ocean, where it going to be nibbled at by the sea life, which is a
+lso a very bad thing (Chinese like to be buried with a "full body" so
+beheading is a much worse punishment than hanging, for example).  And
+since there are no overland route to the Known World (I'm not exactly sure
+about this as I have no Mystara stuff wi th me at the school), MChina
+never made contact with KW nations, with maybe the exception of a few very
+brave adventurers. 
+
+·	For various reasons, they regarded the Alphatians and later Thyatians 
+·	as barbarians of the worst sort, and the sack of their seaport by the 
+·	Alphatians ca. 700 AC only confirmed this attitude—as well as initiating 
+·	a period of isolationism from which the Great Empire has not yet emerged.  
+
+> (For their part, the Alphatians thought that the seaport they sacked was a 
+> Minaean pirate base.)
+
+Due to Chinese xenophobic and egocentric attitude, they pretty much call
+every body else barbarians.  It will be interesting to put a few
+"barbarians" nations close to MChina that is actually more advanced than
+MChina.  Even more so if it is a humanoid na tion, perhaps the demi-ogres? 
+BTW, can some one relay me some info regarding to the demi-ogres, I don't
+remember reading about them, nor could I very easily go look them up at
+this time. 
+
+.	Once in
+·	a while a human Mage pretending to be a dragon assumes power, but such
+·	impostors are generally deposed after a brief but bloody civil war.
+
+Neat!  Put a new spin on Chinese belief that their emperors are
+incarnations of dragons.  BTW, please be aware that Chinese dragon are
+very different from the western dragons.  The "bad" dragon in Chinese myth
+are the blue dragon (what is a good color wor d for light sky blue? 
+Azure?) and he might be unique.  Actually since Chinese believe that many
+of the important and special people in its history are incarnation of
+heavenly beast or star magistrates, perhaps most of the nobles and upper
+class people ar e actually magical beings.  Only the commoners are human. 
+I will think about this a bit and see if I can tie all this up into
+something. 
+-----------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+I think it would be nice to put this together like a gazetteer in the end,
+hopefully having more than one... Now for the actual Mystara stuff: I like
+the idea of having the wall thing be underground.  Perhaps a chasm would
+be good too, as Kaviyd mentioned, and it still could be sort of an
+underground wall.  It could be the major place where the land of luxury
+above and the war below met, if we u se that idea.  I don't think it's
+such a good idea to isolate and divide the area so much, with powerful
+magic, like fire or lightning or mind affecting stuff.  I think the wall
+should greatly hinder attacks, but not totally. Someone mentioned secret
+societies too.  The wall area would be a good place, maybe for some cloak
+and dagger sort of stuff, between the two(or more) sides in the war and
+the outside if its a chasm or something with access to the outside.  An
+interesting place for a fortress or something of a secret society would be
+in or near the wall... in a hidden cavern... the bottom of the chasm (if
+we decide to use it), etc.  It might be funny to have a weird gnoll secret
+society too. The Empire of the great Khan is a large area of grassland,
+with some steppes nearby, and Shin Chyang Yu mentioned the name Khan is a
+Mongolian term, not Chinese.  I personally think that this area is
+obviously a Mongol sort of culture, because of these re asons. Perhaps it
+would be better to have MChina somewhere else.  I am quite glad that the
+list is actively making stuff for Mystara, but I think it's much better to
+build upon what is there instead of changing it.  That way maybe more
+Mystara fans would like it, and it would be more official, you know.  Oh,
+I'm not saying that it absolutely was intended to be Mongolian, but don't
+you think it seems like it probably was?  Hmmm, does anyone know who made
+the Master's map?  Maybe we could ask them if they h ad anything in mind
+for the area...  Oh, I just remembered someone mentioned the Master's set
+map being wrong, because Prince Haldemar explored the area.  Sadly, in
+Champions of Mystara, all the info isn't there from the Dragon magazine
+series.  Could someone perhaps elaborate on the article , and review the
+series that deals with the area?  We should all know whether Haldemar's
+observations seem valid or not, because if not, I think we should go by
+the Masters map. They contradict each other so we should find out which is
+more logical.  If his observations seem real, I agree that it would be the
+*perfect* place for MChina. That's a really nice idea of having dynasties
+of dragons. In this posting I disagreed with some people's ideas, I only
+mean it as discussion so please don't take any of it as flaming. That's
+all for now. David Melik darwin@gp.magick.net
+
+----------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+·	>itself are generally very egocentric.  Some of the names that have
+·	>been used are Middle Kingdom, God Continent, Central Prime, 
+·	>Middle Plain, etc.  How about a transliteration of one of those 
+·	>name?  Such as Chung-Kuo, Shen-Cho, Chung-Eun, etc.?
+        > 
+·I completely agree with the avoidance of real-world names; I simply use them
+·for convenience at this point.  Which version of Chinese (language system)
+·are these names? (I like them)
+
+I only speak mandarin.  Of the three names I listed above, I prefer
+Chung-Eun a bit more because Chung-Kuo are still been used and Shen-Cho
+(continent of god) might run into some confusion with the God/immortal
+stuff even though the god been used there is probably just an adjective to
+describe how grand the place is.
+------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+·	> >itself are generally very egocentric.  Some of the names that have
+·	> >been used are Middle Kingdom, God Continent, Central Prime, 
+·	> >Middle Plain, etc.  How about a transliteration of one of those 
+·	> >name?  Such as Chung-Kuo, Shen-Cho, Chung-Eun, etc.?
+
+Central Prime, yeah!  :) 'And my son, so as there are many planes of
+existence, and as the one we live in is the central one of them, the plane
+of Prime-material, just as well is our divine and eternal country in the
+exact center of the Prime plane and so we can call it Central P rime. We
+are truly in the true heart and center of the multiverse, and in the exact
+point, in the exact centre of the Multiverse, Universe and Prime is the
+Seat of our Emperor, the Dragon.' Pasi
+
+---------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+·About the war below earth, do you know why some Chinese generals were 
+·buried with statues of their soldiers...Because they weren't statues but 
+·real soldiers who were petrified while guarding the body of their 
+·prince. This is gnoll magic !
+
+As far as I can remember, only emperors buried with the stone statues.  In
+a fantasy realm, those statues should definitely have some real power. 
+BTW, a bit earlier in Chinese history, living people was buried with the
+emperor.  They probably will became undead guardian after a while.  Now I
+think a bit more, I think nobles and any one wealthy probably have stone
+statues buried with them, just not nearly to the extent of the emperors.
+-------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+In a message dated 96-07-25 04:18:18 EDT, darwin@magick.net (David Melik)
+writes: 
+
+<< Oh, I just remembered someone mentioned the Master's set map being wrong,
+because Prince Haldemar explored the area. >>
+
+Skothar seems to be the one continent that Haldemar never visited, but he
+did cite a number of instances that showed errors in the Master's set map
+in other areas.  But he did decide to retain many of the place names, even
+though they later turned out to be inappropriate.  Since the Master's set
+map gives us nothing but names, it is of little help except as a spur to
+the imagination.  I took the scanty information on that map, combined it
+with other known information, and created the Great Empire and othe r
+nations of Skothar. The region labeled "Empire of the Great Khan" on the
+Master's set map is my proposed location for MChina.  Although the people
+of this country are ultimately descended from the Jennites and thus from
+horse nomads much like the Mongols, they would now have a more sedentary
+culture that could be patterned after that of China in the real world. 
+This difference in their most ancient history should pose even fewer
+problems than the descent of the Ochaleans from the ancient Alphatians
+does. Incidentally, one assumption behind my work was that Haldemar could
+be mistaken but would not knowingly perpetrate a fraud.  Thus, if he
+believes (as the available material indicates) that Skothar is a totally
+uncivilized continent, then that means that t he Alphatians have had no
+recent contact with civilized Skotharians.  Thus the Jennites and Minaeans
+are savage nomads and pirates, respectively, while MChina and the Tanagoro
+were for various reasons isolated from Alphatia and the nations further
+west. In the case of MChina, that nation could be larger than Alphatia and
+yet remain hidden—it would have a population greater than that of
+Alphatia, along with a national philosophy that favors dealing with
+foreign problems by avoiding them.  For most of Myst ara's history, MChina
+is a sleeping giant, and anyone powerful enough to realize the truth about
+this nation should be wise enough to let it continue sleeping.
+
+---------------------------------------------------------------------------
+>>David Leland<<
+
+By the way, I think it would be neat if it the supposed dragon ruler(s) of
+MChina NEVER take dragon form in front of human subjects.  It could be
+incredibly taboo, like punishable by death to see the ruler in draconian
+form.  Then you could have a really interesting situation in that it would
+not be clearly evident that the ruler actually IS a dragon.  It would
+largely be a matter of faith and (in secret) debate among the populace
+that the ruler is a real dragon and not just using it as some epithet for
+a uthority.
+
+-----------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+<<         It should only have access to the sea on it's eastern border. That
+would  limit it's possible contact with Alphatia.  >>
+
+I think you are going too far in making real world analogies here.  The
+problem with MChina having access to a sea on its eastern border is that
+the geography of Skothar is simply unsuitable for that purpose.  China's
+coastal regions are lowlands, while t he eastern coast of Skothar is
+almost completely mountainous. However, given the general lack of interest
+in exploration by China/MChina, eliminating the coast of MChina entirely
+would not drastically distort matters. If you consider area 10 to be too
+big for MChina, I would recommend as an alternative dividing the region in
+two.  The western half would be inhabited by semi-nomadic Jennite tribes,
+while the eastern half would be MChina.  This region would be sufficient
+ly isolated by its geography that Alphatia would have no reason to
+investigate it.  Furthermore, its westernmost border would be located in
+an area well beyond Alphatia's reach.
+-------------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+Since there seems to be greatest interest in China, perhaps we should
+start with a Chinese culture, I suggest the north and west shores of
+Tangor Bay.
+---------------------------------------------------------------------------
+>>John Yu<<
+
+·In the case of MChina, that nation could be larger than Alphatia and yet
+·remain hidden—it would have a population greater than that of Alphatia
+·and even greater magical resources, along with a national philosophy that
+·favors dealing with foreign problems by avoiding them.  For most of
+
+Although MChina might have greater magical resources, they should be not
+as organized as Alphatia.  Most of the really powerful magic user are more
+interested in study by himself in some secluded mountain than join a guild
+or involve in politics. 
+
+·Mystara's history, MChina is a sleeping giant, and anyone powerful enough
+·to realize the truth about this nation should be wise enough to let it
+·continue
+·sleeping.
+
+"Let Chung-Eun sleep, for if it wakes, Mystara will be sorry" slightly
+modified quote of Napoleon :)
+
+------------------------------------------------------------------------------
+WALL.TXT
+------------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+•	We could get more ideas from real China's historical background... what
+about the Great Wall? 
+
+What do you want to know about it?  Few bits of info on it.  The Great
+Wall was build twice.  First time about 2000 years ago, but that look
+more like a long earth mound, at least that is what it look like after
+all those years of erosion.  The nice looking stone wall was build few
+hundred years ago along/on top of the old GW.  But I often see people 
+point at the new wall but quote the old wall's build date.  Also, the
+wall is manned only a few strategic fortresses along the wall.  Most
+of the wall is not manned.  The wall's main purpose, I believe, was
+just to intimidate and prevent easy troop movement.  The wall also
+follow closely to "rain line."  That the regions south of the wall
+receive enough rain for agriculture, but north of the wall was too
+dry for that.
+----------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+I did put some fairly significant limitations on those mind affecting 
+powers: they only work on invaders from the northwest, and then only if they 
+fail their saving throws.  Thus, an invading army (made up mostly of zero-
+level soldiers) would be thrown into chaos, but high level adventurers could
+most likely get through.
+Also, the wall/chasm does not extend all the way to the sea, so it is quite
+possible to go around the wall—you just have to fight a few more Jennites,
+Minaeans, or other barbarians in the process.
+----------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+Either way, the Alphatians would eventually figure out that there is
+something very peculiar about this region.  Unfortunately, they would most
+likely have
+made this discovery ca. 1003 AC, and subsequent events would have quite
+effectively distracted them from investigating further for at least a 
+decade.
+------------------------------------------------------------------------------
+>>David Melik<<
+
+At 05:24 PM 7/25/96 PDT, you wrote:
+><<<David Melik pontificated:
+>> I like the idea of having the wall thing be underground.  Perhaps a chasm 
+>> would be good too, as Kaviyd mentioned, and it still could be sort of an 
+>> underground wall.  It could be the major place where the land of luxury 
+>> above and the war below met, if we use that idea.  I don't think it's such a 
+>> good idea to isolate and divide the area so much, with powerful magic, like 
+>> fire or lightning or mind affecting stuff.  I think the wall should greatly 
+>> hinder attacks, but not totally.
+>
+>Well, I wasn't intended for it to be impenetrable.  Just something that 
+>is really impressive looking and maybe hurt a bit.  If you are just an 
+>average grunt orc, do you want to go through a big wall of lightning 
+>even if it might only do a point or two of damage if you run very
+>quickly.  Also, along the wall, there will be regular fort that 
+>allows travelers and traders to pass through.  But that is just mine 
+>idea.  A big underground wall is a pretty cool idea too, just not 
+>as impressive looking.  I sort of want the wall to be a major land 
+>mark.
+
+There's no reason why we can't have both an over and underground wall...
+That way it would fit with keeping the barbarians overground out, and that 
+neat idea of a land of luxury with a bloody war below could still be used.
+What does everyone think about that?
+------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+I like the idea of having the wall thing be underground.  Perhaps a chasm
+would be good too, as Kaviyd mentioned, and it still could be sort of an
+underground wall.  It could be the major place where the land of luxury
+above and the war below met, if we u se that idea.  I don't think it's
+such a good idea to isolate and divide the area so much, with powerful
+magic, like fire or lightning or mind affecting stuff.  I think the wall
+should greatly hinder attacks, but not totally. 
+
+-------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+The idea of just a big stone wall seems to be a bit unoriginal.  I really
+like another poster comment about a underground wall.  Or we go even
+farther.  How about a wall of fire, or ice, or lightning? The China
+equivalent should have pretty high magical p ower that it can use, and
+probably have quite a few artifact that has been passed down from long
+time ago. 
+
+-------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+·I read a post about the Great Wall...Maybe this wall could be below earth 
+·to prevent invasion from the Mystara underdark, such as deep gnolls (I'm 
+·really fond of gnolls, don't ask me why...). Just imagine hordes of gnolls 
+·running in tunnels attacked by groups of 'tunnel rats'. Imagine a land of 
+·pleasure and delicacy below which rages a bloody war...
+
+I like this idea alot.  The wall should definitely be something
+interesting.  It might not even have to be that effective just have to be
+very, very intimating.
+
+-------------------------------------------------------------------------
+MJAP.TXT
+------------------------------------------------------------------------------
+>>Scott Johnson<<
+
+·We not necessarily have to limit ourselves to one MJapan.  If people like
+·we could develop one MJapan at region more close to its real world 
+·counterpart, and another one at the tropic in Zyxl (perhaps a old 
+·colonization attempt that later lost contact with the mother country).
+·It would be interesting to see what a tropical Japan will be like.
+·Beside consider we already have a hot desert right next to a 
+·Scandinavian region already, a little temperature change can also be
+·explained with various way. 
+
+I was thinking of something like that, and even had an idea of how to
+explain Zyxl as being mid-temperate to cold despite its latitude. 
+Basically, one of Japan's creation myths involves a giant dragon being
+slain, and I believe its body became part of Ja pan.  (It's been a while
+since I read the myth.) In Mystara, it would be quite possible to imagine
+a myth of an epic battle with an immense white dragon, so cold that when
+it died and fell into the ocean, it chilled the waters and lands for
+hundreds of m iles around, for thousands of years, and its body was
+covered in ice and became one of the northernmost points of Zyxl.  (I also
+recall the battle involving the legendary three treasures of the Emperor -
+the sword, the mirror, and the curved jewel, which could easily be real
+magic items or even artifacts in MJapan.) What do people think of this
+idea?  (It doesn't even have to be a factual legend - just the way the
+people of Zyxl believe it to be.  The real reason might be ancient magic,
+or Immortal inter vention, or some combination of those with the events of
+the legend, or something else.) Also, I'm considering combing my kanji
+dictionary to create an appropriate name for MJapan that would *sound* a
+little like Zyxl, so that when Thyatian explorers come across the island,
+they can continue calling it Zyxl just as our European explorers cal led
+the islands of Nippon Japan.  Any opinions of that?
+-------------------------------------------------------------------------
+>>Scott Johnson<<
+
+·Lets see, the dragon part sounds good to me, and so does immortal
+·intervention/ancient magic, like a powerful being got mad because the dragon
+·was slain and did something like froze the area.  Or Blackmoor could have
+·something to do with it.
+
+An idea: Zyxl, as it is today, was founded by refugees from MChina.  (It's
+aboriginal inhabitants, Mystaran counterparts to the Ainu, were already
+there, but slowly driven towards extinction by the MChinese immigrants. 
+I'm still thinking about whether th e MAinu should just be another human
+culture, or perhaps representatives of a demi-human race.) This would
+explain why its culture is somewhat similar to MChina's despite the great
+distance.  They were fleeing due to a civil war, or an act of great treaso
+n, or something of the like, in which they were on the side opposite of
+the Emperor.  Whatever it was, it was enough that the Emperor of MChina
+felt they deserved the ultimate punishment, so horrible that one could
+live a millennium without ever seeing it : the Emperor took his true
+dragon form, utterly immense, and set out to slay the refugees by his own
+hand.  (Or talon, or whatever.) He chased the refugees a great distance,
+preventing them from stopping at any of the seemingly-habitable lands they
+came across on the way. But finally, one refugee, a great hero of theirs,
+confronted the Emperor in the waters and sky east of Skothar, near Zyxl,
+and in an epic battle, slew him.  The refugees were jubilant, and crowned
+this hero their first Emperor, and he eventually ascended to the ranks of
+the Immortals (Dynast or Epic Hero would seem to work for him). The
+Immortals who watched over MChina and the MChinese Emperor were less
+pleased, and cursed Zyxl to eternal chill, perhaps shutting off its
+central volcan o (Mt. Fuji?).  Over time, the legend grew to the point
+where people now believe that the isle (isles?) of Zyxl *is* the Imperial
+Dragon's corpse.  (All this assumes that MChina has a dragon Emperor, of
+course, as has been suggested elsewhere.)
+--------------------------------------------------------------------------
+>>Scott Johnson<<
+
+·But remember that the Gombarians also use the name Zyxl, so the distortion
+·should not be too extreme.  But from what little I know of the Japanese 
+·language, "Zyxl" is even more alien to them than it is to English speakers.
+> 
+
+Well, something like 'Jikushiru' might work - in Japanese, 'u's tend not
+to get voiced as much, so it sounds like 'Jikshir', and the Japanese 'r'
+is halfway between the English 'r' and 'l', so it becomes more 'Jikshil'
+if you like - which is almost a Japa nese pronunciation of 'Zyxl.'
+Certainly not much farther off than Nippon is from Japan.  Also, who's to
+say that those Gombaran documents actually said Zyxl?  They're supposedly
+written in the Gombaran language, I'd presume, so they've theoretically
+been translated into English - and if that's so, assuming they weren't
+focusing on Zyxl, they wouldn't have wanted to bother with a note saying
+'(This is the island known on the maps you have as 'Zyxl.')' So
+translating whatever the original word was to 'Zyxl ' would actually make
+a certain amount of sense. 
+--------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+·I was just wondering if 'Jikushiru' actually means anything, or if you >just sort of created it out of "thin air".  :-)
+
+<De-lurk>
+Hi all, 
+
+I whipped out my Kodansha Japanese-English dictionary to see if there was
+such a word as Jikushiru.  There isn't.  However, there are the words Jiku
+and Shiru.  Jiku as a noun means variously: A pivot, an axis, an axle, a
+shaft, a stem, a stalk, a scroll, or a roll. Shiru as a noun means: juice,
+sap, soup, or (in a metaphorical way) profit. Shiru as the infinitive form
+of the verb means: 
+
+1.	know (as to understand an idea or a fact)
+2.	appreciate/understand
+3.	know (as to know a person)
+4.	recognize/know
+5.	think of/feel/notice
+6.	<Usage in a phrase that means roughly - "None of your business.">
+7.	see/experience
+
+My apologies to any Japanese speakers if these definitions are a little
+off (especially the verb!).  Japanese can be subtle, and is very
+context-sensitive.  I might not have gotten it exactly right, but I think
+it gives us a good idea of some material to work with. Here are a couple
+of suggestions: Jiku could be a term for the Emperor of what being called
+Zyxl, and that the country's borders were described as being only bounded
+by the knowledge, experience and awareness of the Emperor. Obviously this
+didn't come across in the translation. >;-) Alternatively, it could mean
+that their country (or the Emperor, or something) is described as the
+pivot (or central mechanism) for the world's profits, best interests, etc.
+I know that there is a person on this list who is living in Japan, and who
+would probably have a better interpretation.  Any comments? Regards,
+Shadow Dragon. 
+
+<Lurk>
+------------------------------------------------------------------------------
+>>Jenni Merrifield<<
+
+>Alternatively, it could mean that their country (or the Emperor, or something) 
+>is described as the pivot (or central mechanism) for the world's profits, 
+>best interests, etc.
+>
+
+From this perspective, rather than "profits", wouldn't the idea of "sap"
+be useful, if you think of "sap" as the "life" of plants and (possibly)
+the planet?  Then Zyxl would be the "pivot of sap" or in other words, a
+metaphor for the "heart of life".  (T he meaning of "jiku" as a
+"stem"/"stalk" also fits in with the term "sap"/"juice" in a similar way).
+This "metaphor" could also have been a "mistranslation" of what some
+native was trying to explain, and eventually stuck. Just some more food
+for thought,
+
+-=< strawberryJAMM >=-
+-----------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+·I'll work on it. I'm going to dig up the article in Dragon on this demi-ogre
+·nation
+·and find a location for this nation. What culture should I base this on?
+·Feudal Japan?
+
+My two bits' worth says no.  Japan is cool and there's a lot of
+inspirational material there, but everybody does campaign settings based
+on Japan.  Its the most popular and most overused of Asian settings, and
+the Japanese Samurai has become almost as Cli ché a character as the
+English knight or paladin.  And (it's just my opinion) Ninjas are old hat,
+overrated, and overused.  The ninja has such a cultural mystique that DM's
+tend to allow the Ninja class abilities out of proportion to all other
+classes, wh ich unbalances games.  Bits and pieces of Japanese myth and
+legend might be useful for creating Sumag and Suma'a, but let's not have
+it be just another Myoshima except with Ogres. 
+
+-----------------------------------------------------------------------------
+>>m@2 (??)<<
+
+Since someone already mentioned Japan and Samurais, why not have a
+combination of the two?  Zyxl could be a hypermilitaristic feudal nation
+where only women are allowed to bear arms and a rigid code of conduct
+governs honor and combat.  Perhaps (devious g rin) the men of Zyxl could
+be in revolt ... since they are slaves without weapons, maybe they invent
+all sorts of new martial arts and weaponry made from agricultural tools
+... men could have secret societies for the teaching of karate and the
+making of t onfa and nunchaku even as amazon samurai patrol the
+countryside in splint mail on horse back and punish the gender rebels ... 
+
+-------------------------------------------------------------------------------
+MYANMAR.TXT
+-----------------------------------------------------------------------------
+>>Patrick<<
+
+Hey everyone!  Here's a little something I thought up in a kind of story
+form.  It's based on a Mystaran version of the nation of Myanmar, better
+known as Burma.  Sorry that it's so long, feel free to skim over as much
+as you like.  If anyone is intereste d, there are some incredible pictures
+of this culture at the Myanmar government's home page.  It reads like the
+propaganda of a third world dictator, but it still contains great
+pictures: http://www.myanmar.com/gov/tourist/anc.html If you find this at
+all interesting, I advise you to check out this site and to also reply to
+this post with comments/criticisms/whatever :~) An excerpt from the diary
+of Taferias of Mafertat, Captain of the Glorious <Immortal's Pride>;
+Faithful Explorer to Her Imperial Majesty, Eriadna the Wise; Wizard
+Extraordinaire; etc.; etc.; etc. 
+                                        "
+...We believed all was lost once the ship ran aground, for everyone knows
+that this area of the world holds nothing remotely resembling
+civilization.  We couldn't determine our exact location due to the storm,
+which was still as fierce as ever, but we kne w that we were somewhere on
+the jungle coast of the Sea of Steam or perhaps the Gulf of Tangor.  At
+any rate, our chances looked grim: even if we did somehow manage to repair
+the ship, we still could not get away from this place without facing THEM
+again. At this point, I think I'd rather take my chances with the jungle.
+Daylight finally brought a clearing of the storm.  The damage to the ship
+was not as serious as I feared that it might have been, but it would still
+require about a month of hard labor to repair, and we needed provisions. 
+Even if it were repaired, could we get away from here by sea?  I certainly
+had my doubts, but with the sun came new hopes for survival.  I decided to
+lead an expedition up the coast a few miles in each direction in order to
+see what could be discovered.  After a couple of miles we spott ed
+something shining in the distance ahead of us.  You can imagine my
+surprise when I saw, as we drew closer, a full-fledged town.  Here!  In
+what everyone knows is the absolute middle of nowhere!  At first glance, I
+would have to guess that this town is about as big as home, back in
+Mafertat, Frisland, Alphatia.  The homes were primarily made out of wood
+with straw and mud to seal them, and many small fishing canoes were moored
+along a full half-mile stretch of the shore and along the slow mouth of a
+wid e river.  The people going about their business in the town were
+undoubtedly human, but their complexion was unlike any other that I have
+seen.  If I had to guess, I'd say that they were closest to the Jennites. 
+They wore fairly typical clothes for this climate—scant and brightly
+colored, but not indecent.  Aside from its size, it seemed to be a fairly
+typical native village, except for the great temple or palace structure of
+some sort at the center!  It's gracefully soaring, curving architecture
+towered over the rest of the town, dwarfing it in comparison.  But the
+most astonishing thing was that this structure was covered with what
+appeared to be gold!  When we came closer and the peasants noticed us,
+they seemed somewhat frightened, but more an uneasi ness of strangers than
+the panic of terror. They backed away, until three men in red robes with
+completely bald heads came toward us. Despite what appeared to be a great
+treasure here, we didn't appear to be in a very good position to take it
+by force, so I made the obvious choice to try to befriend them.  They
+three bald men bowed before us, and we returned the gesture.  I cast a
+spell so that we could communicate, hoping that they wouldn't interpret it
+as a threatening gesture.  They never batted an eye , and I began to speak
+to them.  I explained our situation (they were most impressed that we had
+actually made it here across the sea), and asked them for whatever help
+that they could give us.  The monks, as they turned out to be, and the
+peasants gladly and freely welcomed us into their homes, despite the fact
+that almost none of my men could communicate with the natives.  I sat on
+the floor at a low table with my monk/host and shared a meal of rice and
+chicken with a strange, foul-smelling, though ple asant-tasting, spice. 
+We also shared several cups of a delicious tea, and then he allowed me to
+rest the night in his home.  It never occurred to me until I was already
+lying on my bedroll that they never once asked us to surrender our
+weapons. It turns out that the palace is actually something called a
+"Pagoda".  Apparently it's a holy sight for their religion, which seems to
+involve extreme pacifism and kindness to all beings.  They do not
+"worship" their patron immortal, as so many other prim itive societies do,
+but look up to him as a role model and mentor in their own quest for
+enlightenment.  They call their patron "Rohindartha," but I have never
+heard of such an immortal.  Everyone in the town seems to be a fervent
+philosopher;  Allanmyo, my host, explains that every boy of the town, as
+well as many of the girls, join the monastery for at least a few months of
+their lives.  If it is their calling, they will spend their lives at the
+monastery.  The monks and nuns (I met a few nuns today) se em to actually
+be people from all walks of life:  many are typical clerics, but there are
+people reminiscent of Sindhi mystics, and there are even a few
+magic-users!  They follow their philosophy of pacifism and respect for all
+life very rigidly, though i t is believed to be each individual's
+responsibility to determine right or wrong for himself.  Most of my men,
+along with some of the natives, went back to the ship today to try to
+repair it, but I decided to stay to learn what I could of this land. The
+dome of the Great Pagoda is real gold!  What's more, the natives tell me
+that this is only one town in the great Land A Thousand Pagodas.  Allanmyo
+told me that there is a great king of this land who rules from his capital
+at Pantang, the Glorious Cit y of the Hundred Pagodas.  The city I'm in,
+by the way is called Rangyon.  Anyway, Allanyo says that there are
+hundreds of pagodas throughout the Kingdom.  Not all of them are made out
+of gold; there's not that much gold in the whole world!  But this is o
+bviously an incredible kingdom nonetheless!  From how the monks describe
+the Kingdom, it sounds more like a very loose federation of tribes united
+in their faith and their symbolic allegiance to their King at Pantang. 
+Today I awoke to the sounds of shouting in the village.  I quickly drew on
+some clothes and then rushed outside to see what the commotion was.  A
+pair of tigers were in the center of the town, and townspeople were
+running helter-skelter to try to avoid th eir fangs and claws.  I rushed
+forward and fired a lightning bolt from my wand.  Unfortunately my aim was
+off in my haste, and it only grazed the side of one of the tigers.  I
+prepared to shoot again, this time more accurately, when I heard a spell
+cast f rom behind me and felt myself unable to move.  Me!  An Officer of
+the Imperial Alphatian Navy!  A powerful wizard!  ME!  HELD?!?  Allanmyo
+ran from behind me and began calling orders to the peasants, who, instead
+of panicking, listened and followed his or ders.  They all ran in the same
+directions, leaving an open path for the tigers to escape, which they
+quickly did, running back into the jungle.  They poured some sort of tea
+which, in retrospect, must have been drugged into my mouth.  It released
+me from my paralysis, but also seemed to relax my tension and calm my
+nerves and my fury.  Allanmyo explained to me that the tigers were simply
+passing through town this morning when the townspeople began to awake,
+scaring the tigers, and accidentally herding th em towards the center of
+town.  The tigers had eaten well that night, and, being one with nature,
+had no desire to kill. As this was the case, all that Allanmyo had to do
+was allow them to escape to go back to their cave and rest, all they ever
+wanted in the first place.  This excitement (and probably the tea) helped
+convince me to go back to bed for a long nap.  After my peaceful rest, I
+had much of the night to converse with the monks.  They explained many
+things of this part of the world, claiming that great empires exist where
+Alphatian textbooks have always taught exist nothing but barbarians! They
+also explained some more about their philosophy, which sounds fairly good
+(and similar to the Great Immortal Alphatia's) except that it is horribly
+imprac tical.  Late this evening, one of the monks spotted something
+moving quietly through town.  When we went to investigate and discovered
+three ghouls prowling the night, I restrained my impulse to attack,
+remembering last time.  You can imagine my surprise when the monks all
+raced forward and fought the ghouls with such incredible fury that nothing
+I've ever fought could stand up to their combined might...  These are a
+strange people:  peaceful, yet powerful; knowledgeable, yet unknown; full
+of seeming contradictions.  This diary does not do them justice, with all
+the complexities of their society, but it at least sheds some light on
+what until now has been a completely unknown kingdom, right under the nose
+of Great Alphatia!  I for one am certainly glad to consider these people
+my friends, and I will never spread word of this land to those
+money-grubbing gold-seekers who would try to rob them blind.  Besides, I
+might be able to turn a healthy profit off of trade with The Land Of A
+Thousand Pagodas! 
+                                        "
+
+Well, once again I apologize for the length of this post, but I sincerely
+ask that some of you take a look at this and see if you think that it is
+potential material for out Gazetteer-to-be for MOrient.  Thanks! Patrick
+
+------------------------------------------------------------------------------
+SKOTHAR.TXT
+------------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+>Perhaps what we could
+>do is take small portions of it and let individuals develop their own
+>oriental nation there. Starting with just basic descriptions at first,
+>looking at other peoples work on their areas and then working out the
+>interactions between the nations and there collective histories. The more
+>people we get the better it will become.
+>
+It might be fun to do a PBEM war machine game for part of these interactions...
+----------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+<< BTW, how far away is Zyxl from the
+main continent of Sokthar anyway? >>
+
+It is not far from Skothar at all, as it is just off the southeastern tip. 
+That would place Zyxl very near the Tanagoro and the related demi-ogres,
+not near any other Oriental culture.  In any event, Dragon #200 seems to
+imply that demi-ogre merchants st op there fairly frequently. Also, the
+old hardbound _Oriental Adventures_ contains a good deal of information
+about Oriental religions and monsters.  In the area of religion, it points
+out that Eastern religions are not mutually exclusive as Western ones
+are—thus, while one cannot b e at the same time a Christian and a Muslim,
+one can be at the same time a Buddhist and a Confucian. And many humanoid
+races are mentioned:  bakemono, oni, tengu, and ningyo, among others. 
+Much of this material was reproduced and updated in the later Monstrous
+Compendiums, so many of you who came along too late to have easy access to
+_Oriental Adventure s_ may have AD&D monster stats for many of these
+creatures. 
+
+------------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+In addition to the Great Empire, the continent of Skothar contains many
+cultures of interest.  Like Brun, it has as neighbors many cultures that
+are in much closer proximity than their real world counterparts.  Starting
+in the north, here are a few of the more interesting cultures: 
+
+Nentsun Peninsula:  Obviously, this region should be home to a culture
+similar to that of the Inuit of North America or the natives of northern
+Siberia.  Hidden somewhere on this peninsula is the secret city of the
+Qauriks, as described in the _Creature C atalog_. 
+
+Steppes of Jen:  The details of this culture can be inferred from _Dawn of
+the Emperors_ and the Hollow World boxed set.  Presumably, most of the
+surviving nomads are chauvinistic followers of Rathanos. 
+
+Nentsun Plateau:  The areas of this region visited by outsiders are
+inhabited by hostile humanoids, mostly Bakemono, Oni, and Ogre Magi. 
+However, deep within is a great civilization dominated by Mystics (sort of
+a cross between Tibet and Shangri-La). 
+
+Minaean Coast:  These less civilized cousins of the Jennites who settled
+the Great Empire are known to the survivors of Alphatia as fierce pirates. 
+Their lands consist of many coastal seaports as well as a dense jungle. 
+Southeast Asia would probably be a good model for this culture.  They are
+long time enemies of both Alphatia and the Great Empire. 
+
+Tangor:  In the southern mountains live the descendants of the Tanagoro. 
+What sort of culture would they have now?  Let's see—an African culture in
+a mountainous region—ancient Ethiopia is probably our best model here. 
+For fantasy flavor, throw in the m edieval legends of Prester John. 
+
+Zyxl:  Since Haldemar says that this island was named after a female
+gladiator, let's go with that.  For anyone who wanted an Amazon culture on
+Mystara, I humbly submit, this is it!  The women of Zyxl are fierce
+warriors who occasionally go adventuring in the outside world.  Their men
+are kept at home to perform domestic chores and for breeding purposes. 
+Outsiders who intrude on their island are killed or captured and enslaved. 
+
+---------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+·In addition to the Great Empire, the continent of Skothar contains many
+·cultures of interest.  Like Brun, it has as neighbors many cultures that
+·are in much closer proximity than their real world counterparts.  Starting
+·in the north, here are a few of the more interesting cultures:
+
+
+I like some of the barebones ideas you have here, but I don't like the
+degree to which you have taken them (Just my opinion, no flame intended.
+:)
+
+·Steppes of Jen:  The details of this culture can be inferred from _Dawn of
+·the Emperors_ and the Hollow World boxed set.  Presumably, most of the 
+·surviving nomads are chauvinistic followers of Rathanos.
+
+I would probably (though this is still in debate in my mind) make the
+Jennites descendants of the Peshwa nomads of the DA series, just to put
+this in historical context. Leads one to wonder, though, where the Afridhi
+people and their patron immortal Zugzu l are, if any of their descendants
+survived to the present day. 
+
+---------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+·I did not mean one single country, but 
+
+>rather a large oriental culture made up of several individual nations and 
+>covering a large area. All types of oriental culture could be placed in 
+>this setting, each one having its own nation(s). Sort of like how the known 
+>world is based on western culture, we'll base this area on eastern culture.
+
+This is exactly what we should do in developing an Oriental Mystara. 
+Comparing maps of Mystara and Earth show that Eastern Skothar would be
+ideal with a few minor adjustments.  The map of Mystara shows that the
+designers were not too concerned with makin g the terrain features exactly
+match those of the more detailed maps of the known world, so we can also
+take some liberties with the terrain of Skothar. The biggest problem that
+I have seen regarding location is the suggested sites for a Japanese
+culture.  Zyxl is between 5 and 15 degrees north latitude, and most of the
+point of the Tangor Peninsula lies south of the northern tropic. 
+Real-world Japan is between 30 and 45 degrees north; this area is more
+similar to the Philippines.  I'm not saying that we can't locate a
+Japanese culture here, but the climate should be taken into consideration. 
+Since there seems to be greatest interest in China, perhaps we should
+start with a Chinese culture, I suggest the north and west shores of
+Tangor Bay.  I personally would like to see this developed, as well as a
+culture in the jungles south and southwest of Tangor Bay based on
+Indochina.  What sort of underwater culture would fit into an Oriental
+campaign? I confess I know almost nothing about Asian mythology. It seems
+that one major step that would help us is if someone could figure out how
+to get even a rough map of this area on-line.  Does anyone have access to
+a scanner?  I felt that an Oriental setting would require a religion
+similar to Buddhism.  Please look at the Immortal Rohindartha in my next
+post and reply with your comments. 
+
+------------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+In a message dated 96-07-28 18:17:52 EDT, jduncan2@chat.carleton.ca (Joe
+Duncan) writes: 
+
+<<         Do you mean in the area marked "Nentsun Plateau" on the HW map?
+Hmmmm... Tibet/Shangri-La hybrid? Did you develop this for MOrient? Could
+you expand on this?  >>
+
+Yes, that is exactly where I would place it.  And no, I have not developed
+it beyond a brief description—I will leave that to somebody who actually
+knows something about Tibet beyond its location. 
+
+------------------------------------------------------------------------

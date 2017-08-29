@@ -1,0 +1,61 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>In My Campaign Class Template</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../imc.css">
+</head>
+
+<body>
+<h1 align="center">In My Campaign<br>
+  <span class="smaller">New Class</span></h1>
+<table width="544" border="0" cellspacing="0" cellpadding="3" align="center">
+  <tr>
+    <td>
+      <p class="smaller"><i>Version <!-- #BeginEditable "VersionNo" -->{x.y}<!-- #EndEditable --> 
+        : <!-- #BeginEditable "Year" -->{yyyy}<!-- #EndEditable -->/<!-- #BeginEditable "Month" -->{mmm}<!-- #EndEditable -->/<!-- #BeginEditable "Day" -->{dd}<!-- #EndEditable --></i></p>
+      <h2 align="right"><!-- #BeginEditable "ClassName" -->{Class Name}<!-- #EndEditable --></h2>
+      <!-- #BeginEditable "Introduction" -->
+      <p>{introduction to class}</p>
+      <!-- #EndEditable -->
+      <h3>Level Table</h3>
+      <!-- #BeginEditable "LevelTable" --> 
+      <pre>{Insert Level Table Here}</pre>
+      <!-- #EndEditable -->
+      <h3>Game Rule Information</h3>
+      <p><!-- #BeginEditable "Class1" -->{classes}<!-- #EndEditable --> have 
+        the following game statistics:</p>
+      <p class="first-indent"><b>Abilities:</b> <!-- #BeginEditable "Abilities" -->{abilities 
+        information}<!-- #EndEditable --></p>
+      <p class="first-indent"><b>Alignment:</b> <!-- #BeginEditable "Alignment" -->{alignment}<!-- #EndEditable --></p>
+      <p class="first-indent"><b>Hit Die:</b> <!-- #BeginEditable "HitDie" -->{hit 
+        die}<!-- #EndEditable --></p>
+      <!-- #BeginEditable "RuleNotes" -->
+      <p>{notes if required}</p>
+      <!-- #EndEditable -->
+      <h3>Class Skills</h3>
+      <p>The <!-- #BeginEditable "Class2" -->{class}<!-- #EndEditable -->'s 
+        class skills (and the key ability for each skill) are <!-- #BeginEditable "SkillList" -->{Skill
+        List. Use and asterisk (*) to mark skills found in the Skills file}<!-- #EndEditable --></p>
+      <p>&nbsp;</p>
+      <p class="indented"> Skill Points at level 1: (<!-- #BeginEditable "SkillBase1" -->{skill base}<!-- #EndEditable --> 
+        + Int modifier) x 4 <br>
+        Skill Points at Each additional level: <!-- #BeginEditable "SkillBase2" -->{skill base}<!-- #EndEditable --> 
+        + Int modifier</p>
+      <p>&nbsp;</p>
+      <p>For skills marked with an asterisk (*) see the <a href="../skills/skills.htm">Skills 
+        file</a> for details.</p>
+      <h3>Class Features</h3>
+      <p>All of the following are class features of the <!-- #BeginEditable "Class3" -->{class}<!-- #EndEditable -->. 
+      </p>
+      <!-- #BeginEditable "Features" -->
+      <p class="first-indent">{enter all feature details here}</p>
+      <!-- #EndEditable --> 
+      <hr>
+      <!--webbot bot="Include" U-Include="../footer.html" TAG="BODY" --></td>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

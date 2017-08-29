@@ -1,0 +1,642 @@
+>>AUTHOR UNKNOWN<<
+
+Name:  Rohindartha
+Aka:  The Enlightened One
+Sphere:  Thought
+Alignment:  Neutral (of neutral-good in AD&D)
+Immortal Rank:  Eternal
+Immortal Level:  29
+
+Abilities:  Str- 42  Int- 45  Wis- 68  Dex- 44  Con- 47  Cha- 40
+Permanent Power:  9,500
+Saving Throws:  Spell Attacks- 7,  Physical Attacks-3,  Mental Attacks- 6,  
+Power Attacks- 5
+AC: -21,  THAC0: *6 (misses only on natural 1, add 6 to damage roll)  
+Hit Dice: 43
+Hit Points:  700,  # Attacks: 4,  Punch Damage: 4d6  Anti-magic: 80%
+Special Abilities:  Aura- affects up to 23 mortals (vampires, dragons, etc.
+ARE affected)with terror, paralysis, or charm.
+Magic- Any clerical, magical, or druidic spell any number of times per day, +
+immortal magic.
+Regeneration- 1d4 hp per day if active, 1d8 per day at rest
+Communication with any living being, all air-related non-living things
+Rapid travel, special defense against non-magical weapons and
+poison, protection from magic, infravision, creation of any items, and about 
+anything else that you can think of. 
+Powers:  Turn Undead ( as a 36th level Cleric), Mystic Special Abilities 
+(acrobatics, awareness, heal self, mind block, blankout, gentle touch as 16th 
+level mystic)
+
+Description:  Rohindartha is rather small for an immortal, though he's a 
+little over average human size.  He has black hair and brown eyes, and varies 
+his appearance subtly to match those he is dealing with.  
+
+Personality:  Rohindartha was a Prince of some distant civilization (Sind,
+shortly after its peak).  His worship has disappeared from that country, but 
+was brought to the Orient by missionaries centuries ago.  He gave up 
+everything he had to seek the *Middle Path*, not succumbing to the temptation
+of luxury, yet also avoiding the extreme tortures of self-deprivation in 
+seeking enlightenment. He was an epic hero who ventured far and wide in search of 
+enlightenment. There are many vague stories about his life, though none are 
+very specific. His patron was Alphatia, and he has remained on good terms 
+with her and Koryis, whose interests he shares.  One of his long term goals 
+was to civilize the Minaeans so that the areas where he was worshipped could 
+trade and interact freely with the Alphatians, but that goal may fade with the
+disappearance of Alphatia. He is dedicated to raising mortals up above the 
+suffering of mortal life through enlightenment. He detests all undead as 
+trapping a spirit indefinitely in the realm of suffering.  Rohindartha is 
+dedicated to bringing goodness through extreme nonviolence (except towards 
+undead), but, because laws so frequently interfere with genuine goodness and 
+he feels no tie to any law but goodness, his alignment is given as neutral. 
+Rohindartha does not believe that he is fully enlightened, and is one of the 
+few immortals actively seeking the secret of the Old Ones, although he is only 
+an Eternal.  He and Khoronus are friends and research partners. Rohindartha 
+considers every immortal of the sphere of entropy to be his personal enemy,
+with the notable exception of Hel, whose enmity is merely professional in 
+nature.  Rohindartha's nature is one of absolute goodness and pacifism.
+
+Philosophy:  Rohindartha's followers are divided into two major denominations.
+The Elders' Path is a "monotheistic" philosophy which is devoted to the quest 
+for enlightenment through following the way of the Enlightened One; it demands 
+a more active role on the part of believers, and stresses extreme tolerance
+and pacifism.  The Greater Path is the philosophy in which adherents believe 
+that they are helped along the way to enlightenment by those who have already 
+become enlightened (including several other immortals, some immortals sponsored 
+by Rohindartha, several titans, and a number of heroes of the past or simply 
+fictional ones); this is a slightly less spiritual, less austere philosophy 
+which is better suited to normal life.  Both philosophies stress pacifism,
+goodness, respect for elders, and most of all, the quest for enlightenment.  
+Many orders of Mystics follow Rohindara, along with the clerics.  His clerics 
+are made up mainly of monks, though nuns and gurus also exist.  They devote 
+their lives to doing good and seeking enlightenment.  Clerics receive 
+"Deanimate" rather than "Animate Dead".  This spell alters an undead to it's 
+state before animation, thus freeing the spirit from the undead.  This only 
+works on monsters animated by a spell.  Clerics may wear no armor, although 
+they can use a shield and their increased presence of mind gives them a -3 
+bonus on armor class, plus an additional -1 bonus every 4 levels after first.
+Rohindara's clerics radiate such an aura of peace that living creatures are 
+less likely to attack them (+1 or +2 bonus on initial reaction rolls, or such),
+unless the creature recognizes the cleric as a personal enemy.  DMs should 
+award experience for monsters that the clerics avoid fighting, as well as 
+role-laying bonuses for pacifism if they are deserved.
+
+This is my basic idea for a major religion of the Orient.  Please reply with 
+your impressions of it.  Thanks!
+
+--------------------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+>I was talking about Chinese belief that important people are incarnation 
+>of minor god, etc.  In game term, that would mean immortal will directly 
+>involves in mortal realm.
+
+Not necessarily.  Immortals have 3 distinct forms, as given in Wrath of the 
+Immortals.  The Manifestation form is their awesome form in which they have 
+so many powers that they are effectively invincible against mortals.  The 
+immortal's law states simply that an immortal is forbidden to appear in 
+manifestation form on the prime plane.  They are allowed to appear in 
+incorporeal form (appearing in dreams, etc.) or in a Mortal Identity. An 
+immortal is allowed to take on human (or other mortal) form on the prime plane 
+in order to further his or her objectives.  A glance at recent Mystaran 
+history shows two obvious examples: Etienne d'Ambreville, prince of Glantri 
+and the immortal Rad, and Anya, former chief advisor and mistress of Emperor 
+Thincol I and the immortal Vanya. The incarnations of emperors could be true 
+immortals without violating the Law.  I point this out only for clarification; 
+I do not necessarily disagree with the idea of a superrace.
+
+>Also, he should probably be bald.  True
+>follower of his will be pacifist to the extreme.  They 
+>will not allow to kill anything unless it is extremely 
+>evil and have no chance of redemption.  This applies to 
+>all animals and probably intelligent plants.  As for 
+>undeads, the mindless type (zombie, skeletons, etc.) are 
+>no different then moving tables, and can be destroyed 
+>without penalties.  Buddhist don't care much about the 
+>body, believing only the soul is important.  As for the 
+>intelligent undeads, I'm not sure what their view is.  I 
+>can't really see them just run up and kill those creatures, 
+>especially those that are not totally evil.  They probably 
+>will attempt to reason with those undeads first, get them 
+>to see that holding on to life this way is wrong, and get 
+>them to give up their undead statue willingly.  So perhaps 
+>they will have the power of calm intelligent undead down 
+>and get the undeads listen to them, and if the power is 
+>successfully used, the undead need to make a saving throw, 
+>or "dissipate."  Undead that is pawn of other undead should 
+>regain its free will at during the time of conversation.
+
+You're completely right regarding the baldness, it just slipped my mind
+somehow.  As for the rest, it is pretty much exactly in the same vein as
+what I had in mind
+
+>BTW, this will not be the religion of the mass for MChina.
+>It will fit nicely for one of the more advanced culture that 
+>neighboring MChina that I was thinking about.  Due to the 
+>religious beliefs, they are contented to stay in their own 
+>little kingdom and advance their various art to a very high 
+>degree.  In historic setting this nation will be located in 
+>the mountains between India and China, where the mountain
+>help out its small army in defending the nation a bit.  but 
+>since I don't have any map with me, I'm not sure where would 
+>be a good place for this nation.
+
+I agree that this should not be the primary philosophy of MChina.  The
+MTibet/Nepal/Bhutan(?) that you seem to be describing is an excellent
+idea, although it seems that it would be quite a bit of work to create a
+new MIndia when Sind is already there.  T his philosophy would probably
+also be followed in the jungle south of MChina (MBurma and MThailand)
+
+>I can't comment on the stats etc., as I'm not familiar
+>with Immortals rules. He does seem to have rather impressive powers though;
+>too impressive? Also, I'm not sure that I see the rationale for the link to 
+>undead, specifically the emphasis on "de-animating" and releasing the spirit 
+>. Wouldn't this be that spirit's karma?
+
+The Immortal Law at the beginning of this post was designed specifically
+to balance these powers.  I never went into Mortal Identities because it
+seems rather premature.  The idea presented in Wrath of the Immortals is
+that a weak immortal is far more pow erful than any mortal.  They should
+not be used simply as monsters, but more as all-powerful NPCs, according
+to the rules set forth there.  If anyone who is familiar with the rules
+for immortals could reply, I would appreciate input on whether Rohindartha
+should be about at Eternal level where I placed him, or should he be less
+powerful?  As for the undead stuff, I was unsure about it myself.  John
+seemed to back up the original description, while Shelby disagreed.  I
+would appreciate further input regard ing the issue of undead in
+MBuddhism. BTW, I forgot to include this description in the original
+description: Rohin means "on the upward path" in Sindhi, and -dartha was
+simply added to be reminiscent of Siddartha. Thanks to those who took the
+time to respond.  I appreciate it, even if I disagreed with parts of your
+posts. 
+
+------------------------------------------------------------------------------
+>>John Yu<<
+
+Sigh... I was hoping we don't have to get into religion of Chinese or
+MChinese for a while, but since someone brought it up, I going to make a
+few comments.  Chinese religion is VERY confusing.  Most people are just
+not that religious.  Even the religious type (monk, priest, etc.), are
+different from their western counterpart that they are more interested in
+seeking self "enlightenment" instead of converting others.  The "religion"
+that the general population follow is a mix of Buddhism, Taoism, Confucianism,
+and the folk tales all rolled into one.  And the attitude toward religion 
+is very different from the Westerner's point of view.  I'm not even sure 
+where to start on this subject area.  Should I start thinking of creating a 
+MChinese's pantheons of Imm ortals?  That might take a while. 
+
+Also, could the "Immortal Law" be different for MOrient than those applied
+to the Known World.  As I said before, Chinese belief that many special
+people in its history are incarnation of heavenly creature/minor god etc. 
+One way to incorporate that in the Mystara campaign is that they are
+immortals reborn into mortal form, with their immortal memory wiped.  Upon
+their death, their will take their place in the Immortal rank again.  The
+Immortal Patrick described are fairly good.  I just have a couple of
+points to make.  Instead of coming from Sind, why not MIndia? Also, he
+should probably be bald.  True follower of his will be pacifist to the
+extreme.  They will not allow to kill an ything unless it is extremely
+evil and have no chance of redemption.  This applies to all animals and
+probably intelligent plants.  As for undeads, the mindless type (zombie,
+skeletons, etc.) are no different then moving tables, and can be destroyed
+without penalties.  Buddhist don't care much about the body, believing
+only the soul is important.  As for the intelligent undeads, I'm not sure
+what their view is.  I can't really see them just run up and kill those
+creatures, especially those that are not to tally evil.  They probably
+will attempt to reason with those undeads first, get them to see that
+holding on to life this way is wrong, and get them to give up their undead
+statue willingly.  So perhaps they will have the power of calm intelligent
+undead down and get the undeads listen to them, and if the power is
+successfully used, the undead need to make a saving throw, or "dissipate."
+Undead that is pawn of other undead should regain its free will at during
+the time of conversation. BTW, this will not be the religion of the mass
+for MChina.  It will fit nicely for one of the more advanced culture that
+neighboring MChina that I was thinking about.  Due to the religious
+beliefs, they are contented to stay in their own little kingdom an d
+advance their various art to a very high degree.  In historic setting this
+nation will be located in the mountains between India and China, where the
+mountain help out its small army in defending the nation a bit.  but since
+I don't have any map with me , I'm not sure where would be a good place
+for this nation. 
+
+--------------------------------------------------------------------------
+>>John Yu<<
+
+·	> So one way of getting around this that I  thought of is using
+·	> the seelie court.  For some reason the  fairies in MChina is more
+·	interested in
+·	> the welfare of the mortals than their western counterparts
+·	Hi John,
+·	I knew there were "spirits" in Chinese folklore, but are you choosing to
+·	adopt the terminology of Celtic fairy? Aren't there labels more suited 
+·	to the orient?
+
+I'm thinking of keeping them separate.  The seelie/celestial court is
+filled by the powerful fairies, nearly immortal in power.  While the
+spirits have considerably less power.  Actually come to think of it, this
+might work out quite similar to Chinese my thology.  A little background
+info first, the spirits are come to being when those nature animals or
+plants start on the "path." How they able to start was never clearly
+described, AFAIK, probably they just happen to live in a highly magical
+area for a lo ng time.  After 50 to 100 years or so, they can take on
+human form.  If they stay on the right path, they can sooner or later
+(generally several hundreds or thousands of years) became a god.  If they
+stray on to the wrong path, they will be condemned by t he heaven and be
+destroyed.  In game term, this could be that minor spirits, after gaining
+certain amount of power could be invited into the celestial court. 
+Powerful magic user could also became a god.  this could be using a spell
+similar to Lich, but i nstead of turned into an undead, the caster is
+turned into a powerful fairy and join the court.  BTW, in Chinese folk
+belief, gods is not all powerful.  They are below buddas in power.  And
+while godhood can sometime be obtained by just eating some alchem y
+formulas, one can became a budda only through total devotion, selfless
+sacrifice, etc.  Also, IIRC, a god is not out of the "great cycle,"
+meaning that after a certain amount of time they have to start at the
+beginning and be a mortal again.  And once b ecame a god, one can never
+became a budda.  So, I think in game term, Immortals = budda and Powerful
+fairy = god.  Just my opinion.  As I said before, the main reason I like
+this is there are just too many gods in Chinese folk stories to create an
+immortal out of each one.  Hum, looking back at my post, it might be a
+little confusing.  Feel free to ask me any questions to clarify anything
+or tell me what you think of this.
+
+----------------------------------------------------------------------------
+>>John Yu<<
+
+Shelby Michlin pontificated:
+>
+·This is pretty fascinating stuff for a Westerner, or at least for this one.
+·What do you think of the Oriental pantheons in Deities and Demigods/Legends
+·and Lore etc.? Where does that (polytheism) fit into the milieu of Buddhism,
+·Confucianism, Taoism and folk tales? 
+
+I only flip through L&L once, and don't remember much about it. 
+Polytheism is what the commoners "believes".  Most people don't know
+whether a "god" came from Buddhism, Taoism, or somewhere else, nor do they
+really care. 
+
+·	What's the "Immortal Law" you refer to above?
+
+I was talking about Chinese belief that important people are incarnation
+of minor god, etc. The major gods could just be the same immortals that
+have already been published, just took a different name when in MChina,
+with a few addition immortal that is M China specific. 
+
+·In an earlier post you mentioned that the older, original Great Wall is in
+·fact a mound, while the stone wall people picture was only built within the
+·past few hundred years. Are you saying that the original Great Wall was
+·built as a mound, or that all that remains of it is a mound?
+
+Sorry, I don't really know.
+
+·Thank you again, I think your contributions are a terrific opportunity to
+·get Oriental cultures "right."
+
+Just doing what I can.  BTW, I left Taiwan before I even finished
+elementary school, so by no mean I'm an authority on China.  So if someone
+found different info on what I described, feel free to correct me. 
+
+·PS How do we refer to you politely, as Shin, as Yu, or something else?
+
+Just call me John :) While we at it, we can go a little into Chinese
+names.  In China, family names is generally placed first and generally are
+only one word (each word is one syllable in Chinese), although there are
+some two word last names too, and the y seems to be more common in the
+past.  Longer last name can also be heard once a while, but generally mean
+the family come from outer region of China, such as Mongol, Manchuria,
+etc., and they sometime shorten their family name once they integrated
+into Chinese society.  Given name are generally one or two word. 
+Traditionally, there are many families that have strict restrictions on
+Given Names.  For example, the first word of all children from the same
+generation needs to be the same word, and the seco nd words need to have
+some shared characteristic.  Like they all have to be related to water
+etc.  and those rules is kept in the family shrine that is located at the
+family's place of ancestry.  Using my name as example, in Chinese it is Yu
+Shin Chyang.  Yu is my family name, both of my sisters have Shin as the
+first of the given name.  Our family book is back in China, so we didn't
+follow the strict family rule on naming.  All cousin with same last name
+(i.e., children of you father's brother) also cons ider to be in the same
+generation and should have same first word for the given name.  BTW, these
+rules are generally followed by more educated families, or middle class or
+better.  When your first worry is earn enough money to survive, you tend
+to not wo rry about names as much.  Traditionally, boys from educated
+family often have a personal names too, which is used among close friend. 
+Commoners name is generally much simpler.  A street vendor generally have
+names like Wong Six (for been the sixth childr en of the family) or Tang
+Big (for been the first born, or just a big guy), etc.  Adventurers
+generally like to carry some nice sounding nicknames that Timely Rain for
+someone like to help out other, White Serpent in the Wave for someone who
+is a good swi mmer and have fair skin, etc.  Sorry for talk so much on
+fluffs, I'll try to cut down a bit in the future. 
+
+--------------------------------------------------------------------
+>>AUTHOR UNKNOWN<<
+
+One common motif in Chinese mythology is the Celestial Court, which is
+similar to the Mt. Olympus of the Greek myth that it is a gathering of the
+Chinese gods.  However, since the number of Chinese gods could easily be
+in the hundreds if not thousands, it would be difficult in my opinion to
+create that many immortals.  So one way of getting around this that I
+thought of is using the seelie court.  For some reason the fairies in
+MChina is more interested in the welfare of the mortals than their western
+counterparts.  So they have been "helping out" quite a bit over the
+history of MChina.  So the commoner mistaken some of the more powerful
+good folks to be immortals and start to warship them.  The clerics in
+MChina know that is not the case, but the idea is too deep rooted for them
+to bother to change it.  The famous people that are believed to
+incarnation of gods could just be changelings or actual fairy spirit
+incarnated into human baby for one life time, probably either as a
+punishment or the seelie cour t like to get something done that a normal
+human can't be trusted.  So, this is the gist of my idea, what do people
+think about it?
+
+--------------------------------------------------------------------
+>>Andre Martins<<
+Date: Mon, 24 Nov 1997 02:33:14 -0200 (EDT)
+From: Andre Martins <acrmarti@fma1.if.usp.br>
+
+Hi,
+
+We have been going slowly lately or does any of you think ours is a
+lightning pace? I know I have been REALLY busy this year and unable to
+contribute anything, but I hope to get the time for it now, even if it
+will be slow. So I decide to toss a few ideas for discussion. I am writing
+this without my compillations of MOrient material at hand, so feel free to
+criticize and change automatically whatever doens't fit on the previously
+discussed material (specially spellings). Or like it so much you want to
+change any dicrepancies :)
+
+I am also unsure if my mailing list is correct. Let me know if any of you
+find any discrepancies.
+
+
+Rohindarta, as the legends tell
+
+A long time ago, a woman and a dragon fell desperately in love by each
+other. The dragon took the woman to live with him and they were very happy
+for a long time.
+
+When the mother of Rohindarta got pregnant, she dreamt of a huge dragon
+coming to her and entering her womb. The dragon was as gold as the sun
+when if first appeared, but its collor kept changing. It was escorted by
+millions of other creatures, common and strange, most of which the woman
+had never seen or heard of. All of them had the same bright light coming
+from theirs forehead.
+
+The sages told her that the baby she was carrying would one day rule the
+world or save it. The creatures were all its previous incarnations and
+represented all the wisdom he would be carrying to this life. However, his
+was to be a dangerous path and there was a great chance he would get
+killed before fulfilling his fate. His mother died one week after his
+birth.
+
+His father loved their son very much and decided to shield him from all
+the dangers in the world, as he didn't want to lose his son after losing
+the woman he loved. He built a great palace to house him, where loyal
+servants would take care of him and where he would now nothing about the
+sufferings of the world or its problems. The palace was inside the top of
+a high and unclimbable mountain, so that the son would never be able to 
+leave, as he was born human in shape. The only way out was flying through
+the top, the exit his father used, concealed by powerful magics.
+
+The boy grew up strong and intelligent and had a very good life. When he
+was 16, he married a beautiful dragon girl, disguised as human, in a
+marriage arranged by his father. They had a son who would later become the
+ancestor of the emperors.
+
+One day, one pegasus (or any chinese mythical creature, maybe 
+a phoenix, any suggestions?) descended into the palace and Rohindarta
+started to talk to him. He was very curious to hear there was an outer
+world and wanted to hear all about it. The pegasus talked about it and the
+boy decided he wanted to see it by himself. After much asking, he
+convinced the pegasus to fly him to the nearby villages while his parents
+were gone.
+
+There he found out all the suffering of the world, disease, sickness, old
+age and death. And he decided to leave his great palace to look for a way
+of stopping it all. His father found it out in time and forbade him of
+leaving, declering that anyone who would help him by carrying him outside
+would have to suffer his wrath. The boy simply discovered he could turn
+into a dragon and flew away.
+
+He spent years meditating and fasting and there are many views about what
+happened after. Some say he just sat under a tree until enlightment came
+to him. Other cults claim he realized he should try a middle path, while
+fasting was an extreme path. Anyway, all agree he became enlightened,
+knowing the truth behing the veils of illusion of life. The tree where he
+sat under, meditating and where he was assailed by the forces of ...? 
+still stands in the province ... and many make pilgrimages to sit under
+it.
+
+When he reached enlightenment, all immortals came to watch him and pay
+their respects to him. They recognized he had achieved a state of complete
+union with the universe, something beyond their small mundane powers.
+
+After that, he started teaching people how to get free from pain and
+suffering and estabilished our sacred nation of Chung-Eun. After
+teaching the people, he embarked in many mystical journeys to teach his
+words to the gods and other beings.
+
+Rohindarta, as the Immortals know it (do they?)
+
+Rohindarta was real origins are as clouded in mystery as those of the
+elder Immortals. Maybe he belonged to some race ancestor to the dragons,
+but nobody tells it. When Blackmoor reached its peak, he was the reigning
+Hierarch of Time. He was shocked as many other Immortals when that nation
+almost blew the whole world, and decided to walk the land to understand
+what had come to pass, somtehing he didn't do for quite sometime, even in
+mortal identities.
+
+He took many forms and found out the hand of Thanatos behind the whole
+thing. He was really moved by the suffering of the people and decided he
+had to do something about it. He knew that he couldn't war Thanatos, they
+would just reach a stalemate after bringing much pain and death to the
+people in Mystara, as the powers of both were equivalent. So he decided he
+should try something higher. He had heard the legends about the Old Ones
+and decided to regain mortal status and regain Immortality.
+
+First, he created an artifact that would keep sending spells and powers to
+his priethood. He wanted to have all his followers still with him, when he
+regained immortality.
+
+He prepared the region that would later become Chung-Eun, planting legends
+that would help his ascent and decided to be reborn as a dragon, son of a
+human woman. There he created the dynasty that exists until today, as well
+as the Dragon Trone and fulfillied the task to regain Immortality.
+Sometime later, he reached Hierarch status again and was taken by the
+blackballs. The artifact he had prepared before giving up immortality
+must still exists in a modified version, as his followers still gain some
+powers and Thanatos is continuosly plotting to uncover its location, to no
+avail so far.
+
+
+I will send descriptions for th Tree, the Dragon Trone and something for
+the clerics of Rohindarta later.
+
+Comments?
+
+Andre Martins
+
+--------------------------------------------------------------------
+>>Andre Martins<<
+
+Date: Mon, 24 Nov 1997 03:38:00 -0200 (EDT)
+From: Andre Martins <acrmarti@fma1.if.usp.br>
+
+
+The Tree
+
+Whether this tree has any real magical powers or not is subject to
+academic discussions among the chung-euneses(?) academicians. It doesn't
+detect to any form of magical detection, but it stands more than a
+millenia after Rohindarta dat under it and remaint verdant even after hit
+by a number of thunderbolts.
+
+It has no obvious magical use, but the followers of Rohindarta have to
+travel there at the beginnning of their treinament. They sit under it for
+a whole month, without moving, even eating, for a whole month, when they
+claim to contact Rohindarta. Some claim their spiritual journey take just
+one hour, some claim it takes years, where they travel to marvellous
+places, but the fact is that all of them meditate for a full month, coming
+back in a state of full healthy. It is even claimed that none of them can
+be hurt while meditating there, something that is probably true, as their
+most advanced clerics have this power everywhere.
+
+
+The Dragon Trone
+
+Rohindarta understood the world as a great illusion where pain and death
+were unavoidable lies. So he decided to create an item that would reflect
+his vision of the world. The trone was created from a big branch from the
+treee where he had sat under, that he carved by himself. Anyone sitting on
+the trone, has its senses enhanced to a point that he or she can become
+aware of everything happening inside Chung-Eun. A sensation of well-being
+and detachment of mundane things also comes with the experience and the
+person there sat is completely shielded from any external influences.
+
+However, that amount of information is overwhelming for any creature.
+Dragons, somehow, are able to ignore most of it and concentrate on just a
+few things, like detecting ships and oulanders that get close to the
+country. Humans have their mind completely altered even by touching it
+and, if there is a dragon sat on the trone, he can use that state to plant
+whatever memories he wants in their brains. Oddly, whatever they start
+believing to be their true past, has real effects on the world. Mages
+whose fake experiences include the learning of a new spell, find this
+spell written in their books later, scars really appear on people's faces
+and so on.
+
+
+
+Clerics of Rohindarta
+
+His clerics still receive their spells if they pray for it, but they
+usually don't use it. This way, as they are not much trained to cast
+spells, their powers manifest later (treat them as 2 levels lower for
+purposes of how many spells they can cast). They believe they must spent
+most of their lives meditating and getting detached from mundane passions
+and desires. Some sects are specially imune to pain, due to their
+treinament and they receive as many hit points as fighters. Other receive
+martial training and some special manuevers (volunteers, use the Oriental
+Adventures?).
+
+At 5th level, they must travel to the Tree and embark on their spiritual
+voyage. After that, they become completely imune to all kind of illusions.
+At 7th level, they become immune to any mind-controlling magics. At 15th
+level, they reach a new understanding about the nature of the universe and
+they become able to try to disbelieve the real world, just as if it were
+an illusion. On a successful saving throw against spells, nothing in the
+world can affect them. At 21st level, they can try to disbelieve even
+immortals and immortal level magic, but with a -6 penalty.
+
+Comments anyone? Now we have an outline of Bhuda (that we still must
+disccuss), does anyone care about helping me with Lao Zi and Confucius?
+
+Andre
+
+--------------------------------------------------------------------
+>>John Yu<<
+
+Date: Mon, 24 Nov 1997 17:09:43 -0500 (EST)
+From: Shin Chyang Yu <scy2g@watt.seas.virginia.edu>
+
+Andre Martins pontificated:
+> 
+> Hi,
+> 
+> We have been going slowly lately or does any of you think ours is a
+> lightning pace? I know I have been REALLY busy this year and unable to
+> contribute anything, but I hope to get the time for it now, even if it
+> will be slow. 
+
+Same here.  And I still didn't graduate on time.  First of all, we
+probably should do a head count to see how many people still left
+on this group.  I wrote something up regrading to Celestrial Court,
+Seelie Court, and Dragons a couple of month ago, but never quite
+find the time to finish it.  I will try to finish it over the
+Thanksgiving and post it afterward.
+
+I have just scan through you posts.  But right now, you have 
+combined MBuddha and the first emperor into one figure.  I'm
+not sure I like that.  The selfish reason is that I was thinking
+to have a province that actually proscute Buddhist monks.  This
+would make that difficult :)  The more general reason is he was
+from India.  I will get back to you with my thoughts when I have
+more time to read and think it over.  Thanks.
+
+-- 
+John Yu, scy2g@virginia.edu |
+UVa, Material Science Dept. |"Earth is too small and fragile a basket
+IPM Lab			    |  for Mankind to keep all his eggs in."	
+(804) 984-3789		    |               -- Robert Anson Heinlein
+
+--------------------------------------------------------------------
+>>Andre Martins<<
+
+Date: Tue, 25 Nov 1997 00:20:31 -0200 (EDT)
+From: Andre Martins <acrmarti@fma1.if.usp.br>
+
+
+On Mon, 24 Nov 1997, Shin Chyang Yu wrote:
+
+> Same here.  And I still didn't graduate on time.  First of all, we
+> probably should do a head count to see how many people still left
+> on this group.  I wrote something up regrading to Celestrial Court,
+> Seelie Court, and Dragons a couple of month ago, but never quite
+> find the time to finish it.  I will try to finish it over the
+> Thanksgiving and post it afterward.
+
+Do it, I am eager to read it, even if not complete. If you don't manage to
+finish it, send what you have and let's keep this project moving, even if
+at a slow pace.
+
+> I have just scan through you posts.  But right now, you have 
+> combined MBuddha and the first emperor into one figure.  I'm
+> not sure I like that.  The selfish reason is that I was thinking
+> to have a province that actually proscute Buddhist monks.  This
+> would make that difficult :)  The more general reason is he was
+> from India.  I will get back to you with my thoughts when I have
+> more time to read and think it over.  Thanks.
+
+I know. But that was not a very important part, so we could change it,
+just by changing the Sphere under which Rohindarta regains his
+immortality. I guess Thought would also be apropriate and not require him
+to build a dynasty. Just send your suggestions.
+
+Andre
+
+
+--------------------------------------------------------------------
+>>David K<<
+
+Date: Tue, 25 Nov 1997 00:02:58 -0500 (EST)
+From: Kaviyd@aol.com
+
+In a message dated 97-11-24 01:26:20 EST, acrmarti@fma1.if.usp.br writes:
+
+<< One day, one pegasus (or any chinese mythical creature, maybe 
+ a phoenix, any suggestions?) descended into the palace and Rohindarta
+ started to talk to him. >>
+
+How about a ki rin?
+
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------

@@ -1,0 +1,41 @@
+.dm-secret {
+  position: relative;
+  visibility: hidden;
+  keyword: omniscience;
+}
+
+.mythraius-secret {
+  position: relative;
+  visibility: hidden;
+  keyword: black-rose;
+}
+
+.alisandro-secret {
+  position: relative;
+  visibility: hidden
+  keyword: thincol;
+}
+
+.andrinor-secret {
+  position: relative;
+  visibility: hidden
+  keyword: bastard-sword;
+}
+
+.cassia-secret {
+  position: relative;
+  visibility: hidden
+  keyword: elendaen;
+}
+
+.cian-secret {
+  position: relative;
+  visibility: hidden
+  keyword: minstrel;
+}
+
+.tanen-secret {
+  position: relative;
+  visibility: hidden
+  keyword: elendaen;
+}

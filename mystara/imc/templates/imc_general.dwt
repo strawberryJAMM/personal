@@ -1,0 +1,30 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>In My Campaign General Template</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../imc.css">
+</head>
+
+<body>
+<h1 align="center">In My Campaign<br>
+  <!-- #BeginEditable "Title" --><span class="smaller">{Title}</span><!-- #EndEditable --></h1>
+<table width="544" border="0" cellspacing="0" cellpadding="3" align="center">
+  <tr>
+    <td>
+      <!-- #BeginEditable "Contents" -->
+      <p class="smaller"><i>{Put all your content here.  E.g.:</i></p>
+      <h2 align="right">{Heading</h2>
+      <p class="first-indent">Text</p>
+      <h3>Sub Heading</h3>
+      <p class="first-indent">Text</p>
+      <p>&nbsp;</p>
+      <p class="smaller"><i>etc.}</i></p>
+      <!-- #EndEditable -->
+      <hr>
+      <!--webbot bot="Include" U-Include="../footer.html" TAG="BODY" --></td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>In My Campaign Equipment Template</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../imc.css">
+</head>
+
+<body>
+<h1 align="center">In My Campaign<br>
+  <span class="smaller">New Equipment</span></h1>
+<table width="544" border="0" cellspacing="0" cellpadding="3" align="center">
+  <tr>
+    <td>
+      <p class="smaller"><i>Version <!-- #BeginEditable "VersionNo" -->{x.y}<!-- #EndEditable --> 
+        : <!-- #BeginEditable "Year" -->{yyyy}<!-- #EndEditable -->/<!-- #BeginEditable "Month" -->{mmm}<!-- #EndEditable -->/<!-- #BeginEditable "Day" -->{dd}<!-- #EndEditable --></i></p>
+      <h2 align="right"><!-- #BeginEditable "EquipmentType" -->{Equipment Type}<!-- #EndEditable --></h2>
+      <!-- #BeginEditable "Introduction" -->
+      <p>{introduction}</p>
+      <!-- #EndEditable -->
+      <h3><!-- #BeginEditable "Equipment1" -->{Equipment}<!-- #EndEditable --> 
+        Table</h3>
+      <!-- #BeginEditable "EquipmentTable" --> 
+      <pre>{Insert Equipment Table Here}</pre>
+      <!-- #EndEditable -->
+      <h3><!-- #BeginEditable "Equipment2" -->{Equipment}<!-- #EndEditable --> Descriptions</h3>
+      <p>The <!-- #BeginEditable "equipment" -->{equipment}<!-- #EndEditable --> found 
+        in the above table are described below.</p>
+      <!-- #BeginEditable "EquipmentDescriptions" -->
+      <p class="first-indent"><b>{equip1:</b> description</p>
+      <p class="first-indent"><b>equip2:</b> description</p>
+      <p class="first-indent"><b>equip3:</b> description</p>
+      <p class="first-indent"><b>etc.}</b></p>
+      <!-- #EndEditable --> 
+      <h3><!-- #BeginEditable "Equipment3" -->{Equipment}<!-- #EndEditable --> 
+        Illustrations</h3>
+      <!-- #BeginEditable "Illustrations" --> 
+      <p>{Insert Equipment Illistrations Here}</p>
+      <!-- #EndEditable --> 
+      <hr>
+      <!--webbot bot="Include" U-Include="../footer.html" TAG="BODY" --></td>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

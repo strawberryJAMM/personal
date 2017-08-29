@@ -1,0 +1,88 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>In My Campaign Race Template</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../imc.css">
+</head>
+
+<body>
+<h1 align="center">In My Campaign<br>
+  <span class="smaller">New / Modified Race</span></h1>
+<table width="544" border="0" cellspacing="0" cellpadding="3" align="center">
+  <tr> 
+    <td> 
+      <p class="smaller"><i>Version <!-- #BeginEditable "VersionNo" -->{x.y}<!-- #EndEditable --> 
+        : <!-- #BeginEditable "Year" -->{yyyy}<!-- #EndEditable -->/<!-- #BeginEditable "Month" -->{mmm}<!-- #EndEditable -->/<!-- #BeginEditable "Day" -->{dd}<!-- #EndEditable --></i></p>
+      <h2 align="right"><!-- #BeginEditable "RaceName" -->{Race Name}<!-- #EndEditable --></h2>
+      <!-- #BeginEditable "Introduction" --> 
+      <p>{introduction to race}</p>
+      <!-- #EndEditable --> 
+      <p class="first-indent"><b>Personality:</b> <!-- #BeginEditable "Personality" -->{first 
+        personality paragraph}<!-- #EndEditable --></p>
+      <!-- #BeginEditable "PersonalityExtra" --> 
+      <p class="first-indent">{personality extra paragraphs}</p>
+      <!-- #EndEditable --> 
+      <p class="first-indent"><b>Physical Description:</b> <!-- #BeginEditable "Physical" -->{first 
+        physical description paragraph}<!-- #EndEditable --></p>
+      <!-- #BeginEditable "PhysicalExtra" --> 
+      <p class="first-indent">{physical description extra paragraphs}</p>
+      <!-- #EndEditable --> 
+      <p class="first-indent"><b>Relations:</b> <!-- #BeginEditable "Relations" -->{first 
+        relations paragraph}<!-- #EndEditable --></p>
+      <!-- #BeginEditable "RelationsExtra" --> 
+      <p class="first-indent">{relations extra paragraphs}</p>
+      <!-- #EndEditable --> 
+      <p class="first-indent"><b>Alignment:</b> <!-- #BeginEditable "Alignment" -->{first 
+        alignment paragraph}<!-- #EndEditable --></p>
+      <!-- #BeginEditable "AlignmentExtra" --> 
+      <p class="first-indent">{alignment extra paragraphs}</p>
+      <!-- #EndEditable --> 
+      <p class="first-indent"><b><!-- #BeginEditable "Race1" -->{Racial}<!-- #EndEditable --> 
+        Lands:</b> <!-- #BeginEditable "Lands" -->{first racial lands paragraph}<!-- #EndEditable --></p>
+      <!-- #BeginEditable "LandsExtra" --> 
+      <p class="first-indent">{racial lands extra paragraphs}</p>
+      <!-- #EndEditable --> 
+      <p class="first-indent"><b>Religion:</b> <!-- #BeginEditable "Religion" -->{first 
+        religion paragraph}<!-- #EndEditable --></p>
+      <!-- #BeginEditable "ReligionExtra" --> 
+      <p class="first-indent">{religion extra paragraphs}</p>
+      <!-- #EndEditable --> 
+      <p class="first-indent"><b>Language:</b> <!-- #BeginEditable "Language" -->{first 
+        language paragraph}<!-- #EndEditable --></p>
+      <!-- #BeginEditable "LanguageExtra" --> 
+      <p class="first-indent">{language extra paragraphs}</p>
+      <!-- #EndEditable --> 
+      <p class="first-indent"><b>Names:</b> <!-- #BeginEditable "Names" -->{first 
+        names paragraph}<!-- #EndEditable --></p>
+      <!-- #BeginEditable "NamesExtra" --> 
+      <p class="first-indent">{names extra paragraphs}</p>
+      <!-- #EndEditable --> 
+      <p class="first-indent"><b>Adventurers:</b> <!-- #BeginEditable "Adventurers" -->{first 
+        adventurers paragraph}<!-- #EndEditable --></p>
+      <!-- #BeginEditable "AdventurersExtra" --> 
+      <p class="first-indent">{adventurers extra paragraphs}</p>
+      <!-- #EndEditable --> 
+      <h3><!-- #BeginEditable "Race2" -->{Race}<!-- #EndEditable --> Racial Traits</h3>
+        <ul>
+          <!-- #BeginEditable "Traits" --> 
+          <li>{enter all trait details here}</li> 
+          <!-- #EndEditable --> 
+        </ul>
+      <h3><a name="VitalStatistics"></a>Vital Statistics <span class="smaller">[Age, 
+        Height and Weight]</span></h3>
+      <!-- #BeginEditable "VitalStatistics" --> 
+      <p>{enter all vital statistics details here}</p> 
+      <!-- #EndEditable --> 
+      <h3><a name="Notes"></a>Notes</h3>
+      <!-- #BeginEditable "Notes" -->
+      <p>{enter any additional notes here}</p>
+      <!-- #EndEditable --> 
+      <p>&nbsp;</p>
+      <hr>
+      <!--webbot bot="Include" U-Include="../footer.html" TAG="BODY" --></td>
+  </tr>
+</table>
+</body>
+</html>

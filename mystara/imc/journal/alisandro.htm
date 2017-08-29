@@ -1,0 +1,111 @@
+<html>
+<head>
+<title>Campaign Journal: Alisandro Manre - In My Campaign</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../imc.css">
+<link rel="stylesheet" href="../keywords.css" type="text/css">
+<script language="javascript1.1">
+<!--
+ var ie4 = (document.all)
+ if (!ie4) { // only include cross-browser library if we're in Netscape
+  document.write("<" + "script language=\"javascript1.2\" src=\"../dhtmllib2.js\">\n")
+  document.write("  // This library handles cross-browser magic for netscape\n")
+  document.write("<" + "/script>\n")
+ }
+ else {
+  setup = new Function()
+ }
+// -->
+</script>
+<script language="javascript1.2" src="../templates/imc_general.dwt">
+  // This library handles cookie creation and usage.
+</script>
+<script language="JavaScript">
+<!--
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_showHideLayers() { //v3.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+function showHideSecrets() { //v3.0
+  var i,p,v,obj,args=showHideSecrets.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+//-->
+</script>
+</head>
+<body>
+<h1 align="center"><a href="../index.htm">In My Campaign</a><br>
+  <span class="smaller">Alisandro Manre</span></h1>
+<table width="544" border="0" cellspacing="0" cellpadding="3" align="center">
+  <tr> 
+    <td> 
+      <p class="smaller"><i>Version b0.1&nbsp;&nbsp;2001/Jun/04</i></p>
+      <h2 align="right">Alisandro Manre</h2>
+      <p class="first-indent">Text that anyone can see (same as on summary page)</p>
+      <p class="first-indent">&nbsp;</p>
+      <p class="first-indent"><i><span class="larger"><span class="redfont">This page is still under construction</span></span></i></p>
+      <p>&nbsp;</p>
+      <h3>Secrets</h3>
+      <p class="first-indent">This file contains secrets.</p>
+      <p class="first-indent"><span class="smaller"><i>keywords that work here: 
+        <span id="keywords" style="position:relative">{keyword list}</span></i></span></p>
+      <hr>
+      <div class="dm-secret"> 
+        <h4>3E Stat Block</h4>
+        <p class="first-indent"></p>
+        <p class="first-indent"><b>Alisandro Manre, <a href="../races/water_elves.htm">Water 
+          Elf</a>, Ftr&nbsp;0.5/Wiz&nbsp;0.5 (apprentice)</b>, Medium-size (5'5&quot;), 
+          etc. </p>
+        <p class="first-indent">&nbsp;</p>
+      </div>
+      <div class="dm-secret"> 
+        <div class="alisandro-secret"> 
+          <div class="cassia-secret"> 
+            <h4>Other Secrets</h4>
+            <p class="first-indent"></p>
+            <p class="first-indent">Text that the dm, alisandro and cassia can 
+              see</p>
+          </div>
+        </div>
+      </div>
+      <div class="dm-secret"> 
+        <div class="alisandro-secret"> 
+          <p class="first-indent">Text that the dm and alisandro can see</p>
+          <hr>
+        </div>
+      </div>
+      <div class="dm-secret"> 
+        <p class="first-indent">Text that only the dm can see</p>
+      </div>
+      <div class="dm-secret"> 
+        <p> 
+        <input type="submit" name="Submit" value="Submit" onClick="MM_showHideLayers('Layer1','','show')">
+      </p>
+      </div>
+      <hr>
+      <!--#include virtual="../footer.html" --> </td>
+  </tr>
+</table>
+</body>
+</html>
